@@ -28,6 +28,18 @@ npm start
 - Shadcn.ui
 - Charts.js
 
+### Full Journey
+
+- The member's journey can be seen under the Member Journey tab, which contains a timeline for the major events and decisions taken in his journey
+  - The Events bubbles can be clicked to show the details of the particular event
+  - The Decision Breakdown tab highlights the various decisions that were part of that event and the rationale behind the decision
+- The health dashboard contains the various health metrics of the person as a function of time
+- The internal metrics marked the efforts of all the specialists in decision making using a simple formula from the messages data (1 message = 1 unit of effort) and the overall effort distribution
+
+### Message Data
+
+8 months of communication data is made using custom, refined prompts (given below) and is stored in the `/public` folder in week-wise format. The data is then extracted and summarised using LLMs to build a journey for the persona.
+
 ### Prompts Used
 
 #### For Generating Messasges -
