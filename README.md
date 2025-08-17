@@ -180,5 +180,3 @@ Highlighting Key Wins: To reinforce the value of the integrated team, individual
 #### For Generating Week-Wise Events
 
 - Made with our own ideas and chats with LLMs
-#   e l y x - d a s h b o a r d  
- 
