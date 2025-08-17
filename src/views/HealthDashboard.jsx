@@ -7,8 +7,6 @@ import {
 import LineChart from "../components/charts/LineChart";
 import BarChart from "../components/charts/BarChart";
 
-// NOTE: The new data.js file does not contain structured health metrics.
-// This data is synthesized based on the conversations in the new data file for demonstration purposes.
 const healthMetrics = {
   hrv: {
     labels: ["July 14", "July 21", "July 28", "Aug 4"],
@@ -23,6 +21,10 @@ const healthMetrics = {
     labels: ["Baseline (July)"],
     data: [42],
   },
+  glucoseVariability: {
+    labels: ["Aug 15-21", "Aug 22-28"],
+    data: [25, 15],
+  },
 };
 
 const HealthDashboard = () => {
@@ -32,8 +34,8 @@ const HealthDashboard = () => {
       {
         label: "Nightly HRV (ms)",
         data: healthMetrics.hrv.data,
-        borderColor: "hsl(var(--primary))",
-        backgroundColor: "hsla(var(--primary), 0.2)",
+        borderColor: "rgb(147, 51, 234)",
+        backgroundColor: "rgba(200, 51, 234, 0.2)",
         fill: true,
         tension: 0.3,
       },
@@ -46,7 +48,7 @@ const HealthDashboard = () => {
       {
         label: "Sleep Latency (minutes)",
         data: healthMetrics.sleepLatency.data,
-        backgroundColor: "hsla(var(--primary), 0.6)",
+        backgroundColor: "rgba(300, 51, 234, 0.6)",
       },
     ],
   };
@@ -57,7 +59,18 @@ const HealthDashboard = () => {
       {
         label: "VO2 Max (mL/kg/min)",
         data: healthMetrics.vo2Max.data,
-        backgroundColor: "hsla(var(--primary), 0.6)",
+        backgroundColor: "rgba(250, 51, 234, 0.6)",
+      },
+    ],
+  };
+
+  const glucoseData = {
+    labels: healthMetrics.glucoseVariability.labels,
+    datasets: [
+      {
+        label: "Glycemic Variability (%)",
+        data: healthMetrics.glucoseVariability.data,
+        backgroundColor: "rgba(147, 51, 234, 0.6)",
       },
     ],
   };
@@ -91,6 +104,16 @@ const HealthDashboard = () => {
         <CardContent>
           <div className="h-[300px] relative">
             <BarChart data={vo2MaxData} />
+          </div>
+        </CardContent>
+      </Card>
+      <Card>
+        <CardHeader>
+          <CardTitle>Glycemic Variability Reduction</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="h-[300px] relative">
+            <BarChart data={glucoseData} />
           </div>
         </CardContent>
       </Card>
