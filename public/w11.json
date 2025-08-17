@@ -1,0 +1,188 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-09-14 09:05",
+    "sender": "Ruby",
+    "content": "Good morning Rohan! Welcome back to Singapore 😊 Hope your Seoul trip went smoothly. Neel has suggested we do a debrief call later today to review key insights and jet lag management. Would 11:00 work for you?"
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-09-14 09:12",
+    "sender": "Rohan",
+    "content": "Morning Ruby… Thanks. 11:00 works fine. Appreciate you setting this up."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-09-14 11:00",
+    "sender": "Neel",
+    "content": "Rohan, welcome back. Quick debrief from Seoul: CGM data shows glucose spikes post-late dinners, sleep disruption from local evening meetings, and jet lag resolved faster than expected. We can optimize your next trip using these insights."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-09-14 11:05",
+    "sender": "Rohan",
+    "content": "Got it, Neel. Makes sense. The CGM insights are surprisingly precise. Good to know about dinner spikes."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-09-14 12:20",
+    "sender": "Advik",
+    "content": "Rohan, I ran a deep-dive on your Oura/Garmin data from the past 3 months. Noticed a consistent drop in deep sleep following late-afternoon Zooms, especially after 4 PM. Likely due to blue light and cognitive load. Suggest a simple intervention: blue-light blocking glasses after 4 PM."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-09-14 12:25",
+    "sender": "Rohan",
+    "content": "Interesting. That aligns with my own feeling. Hard to isolate before. Glasses sound low-friction enough to try."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-09-14 12:30",
+    "sender": "Ruby",
+    "content": "Perfect timing! Already ordered a high-quality pair for you. They'll arrive tomorrow at your Singapore residence. I'll track the delivery and confirm."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-09-15 08:45",
+    "sender": "Ruby",
+    "content": "Rohan, your blue-light glasses have been delivered this morning. Confirmed with the courier. All set for your late-afternoon calls today."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-09-15 23:10",
+    "sender": "Rohan",
+    "content": "Tried the glasses on all my Zoom calls today… Noticed deeper sleep than usual! Feels like the data was right on point."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-09-15 23:20",
+    "sender": "Advik",
+    "content": "Fantastic! That aligns perfectly with the hypothesis. Early validation of the intervention. We can keep tracking and see if the pattern holds over the next 2 weeks."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-09-16 09:15",
+    "sender": "Rohan",
+    "content": "Quick question - seen some mentions of mouth taping for sleep optimization. Thoughts from the team?"
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-09-16 09:25",
+    "sender": "Dr Warren",
+    "content": "Rohan, mouth taping can promote nasal breathing, which theoretically improves sleep quality. But its impact is variable, and there's minor risk if you have any undiagnosed nasal obstruction. Worth experimenting cautiously while tracking Oura metrics."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-09-16 09:35",
+    "sender": "Rohan",
+    "content": "Makes sense. We'll keep it data-driven then. Thanks for the caution."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-09-16 18:50",
+    "sender": "Advik",
+    "content": "Also, reviewed Seoul wearable and CGM data—your post-dinner glucose spikes were slightly higher than usual, likely due to late dinners and local time adjustments. Sleep efficiency still improved with glasses, showing the intervention worked independently."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-09-17 08:20",
+    "sender": "Rachel",
+    "content": "Morning Rohan! Now that you're back, how's the strength and cardio routine going? Even short sessions count. Keep momentum, we can adjust if needed."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-09-17 08:28",
+    "sender": "Rohan",
+    "content": "Morning Rachel… Managed 3 sessions since return. Not bad, but could improve. Appreciate the nudge."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-09-17 12:05",
+    "sender": "Ruby",
+    "content": "Rohan, checked all logistics—glasses delivery confirmed, workout schedule in Trainerize updated, and all Oura data synced. Week ahead ready for proactive tracking 👍"
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-09-18 08:55",
+    "sender": "Rohan",
+    "content": "Noticed my deep sleep trend holding steady last night. Feels like the glasses are genuinely helping."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-09-18 09:10",
+    "sender": "Advik",
+    "content": "Exactly, Rohan. Over 3 nights, deep sleep +12% vs baseline post-late calls. The correlation is strong. We'll keep monitoring to rule out other factors."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-09-18 09:15",
+    "sender": "Rohan",
+    "content": "Great. Nice to see small interventions yield measurable impact."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-09-18 17:40",
+    "sender": "Ruby",
+    "content": "Reminder: tomorrow's mini-strength session is at 07:00. Trainerize shows it as flexible if you need to adjust around work calls."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-09-19 07:05",
+    "sender": "Rohan",
+    "content": "Done with session. Felt lighter than usual. Thanks for keeping it manageable."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-09-19 12:15",
+    "sender": "Ruby",
+    "content": "Perfect, Rohan! Data synced. Also confirmed the next CGM patch shipment for end of month—no gaps in coverage."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-09-19 18:30",
+    "sender": "Rachel",
+    "content": "Rohan, saw your Garmin heart-rate recovery after today's session. Solid progress despite travel fatigue. Keep this consistency and we'll see steady VO₂ max improvements."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-09-19 18:45",
+    "sender": "Rohan",
+    "content": "Thanks Rachel. Recovery feels smoother. Encouraging to see metrics matching subjective feeling."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-09-20 08:10",
+    "sender": "Advik",
+    "content": "Quick summary Rohan: Seoul CGM + wearables show late dinners spike glucose 15-20 mg/dL, late-afternoon Zooms reduce deep sleep by ~25 min. Glasses mitigate the latter. Morning workouts maintain HRV and VO₂ max. Pattern confirmed, no new adverse trends."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-09-20 08:20",
+    "sender": "Rohan",
+    "content": "Excellent, Advik. Data-backed clarity is exactly what I wanted. Glad these small tweaks have such impact."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-09-20 08:45",
+    "sender": "Ruby",
+    "content": "All noted, Rohan. Next week we can explore layering mild mouth-taping trials with glasses, if you want. Logistics, delivery, and monitoring can be fully handled by us."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-09-20 09:00",
+    "sender": "Rohan",
+    "content": "Sounds good Ruby. Let's prep for that next week."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-09-20 09:10",
+    "sender": "Neel",
+    "content": "Rohan, overall, Seoul trip insights + intervention validation now give us a proactive template for your next 3 months. We'll continue pattern detection to pre-empt hidden issues before they emerge."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-09-20 09:15",
+    "sender": "Rohan",
+    "content": "Excellent. That's exactly the strategic value I'm looking for. Thanks everyone!"
+  }
+]

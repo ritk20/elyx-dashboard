@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-12-29 08:15",
+    "sender": "Ruby",
+    "content": "Good morning Rohan ☀️ Q3 Kick-Off call is set for today at 6pm SGT. Neel will lead, and the whole team will join for alignment. Sarah has the calendar invite."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-12-29 08:27",
+    "sender": "Rohan",
+    "content": "Perfect, thanks Ruby. Looking forward to seeing how we’re framing Q3."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-12-29 18:02",
+    "sender": "Neel",
+    "content": "Evening Rohan. Thanks for joining—tonight we officially launch Q3. Big theme is the 'Longevity Decathlon': 10 measurable, integrated goals across heart health, cognition, recovery, and performance. Keto is our first major initiative kicking this off."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-12-29 18:05",
+    "sender": "Rohan",
+    "content": "Got it Neel. I like the structure. Feels motivating to think of it as a decathlon rather than scattered goals."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-12-29 18:18",
+    "sender": "Ruby",
+    "content": "All actions from the Kick-Off are noted—I'll circulate a clean summary tomorrow morning so it's crystal clear what we're tracking 🚀."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-12-30 07:41",
+    "sender": "Ruby",
+    "content": "Morning Rohan, quick recap doc from last night’s Q3 Kick-Off is in your inbox. Main next step for this week: mid-experiment keto check-in with Advik."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-12-30 07:53",
+    "sender": "Rohan",
+    "content": "Got the doc—super clear as always. Thanks Ruby 🙏"
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-12-30 20:10",
+    "sender": "Advik",
+    "content": "Rohan, mid-point snapshot from your keto data: GKI holding steady in the 2.5–3.0 range, which is optimal. Your daily focus scores are averaging 4.5, up from baseline 3. Strong evidence supporting your hypothesis that ketosis sharpens focus."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-12-30 20:25",
+    "sender": "Rohan",
+    "content": "That’s encouraging. Definitely feel sharper on calls this week."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-12-31 09:12",
+    "sender": "Carla",
+    "content": "Checked in with Javier this morning. He says sourcing keto ingredients has been smooth, and he’s noticed you seem to have more stable energy throughout the day. That’s another practical data point for our experiment 👍."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-12-31 09:22",
+    "sender": "Rohan",
+    "content": "Nice to hear. He hasn’t complained to me so I assumed it was manageable. Good to know energy stability is showing up externally too."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-12-31 14:40",
+    "sender": "Rohan",
+    "content": "Quick thought—assuming this positive focus trend holds, what’s the long-term play here? Stay ketogenic indefinitely, or is it more about building metabolic flexibility?"
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-12-31 15:05",
+    "sender": "Carla",
+    "content": "Great question. The ultimate goal isn’t permanent keto, but metabolic flexibility—the ability to efficiently switch between carbs and fats as fuel. This supports both performance and long-term resilience."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-12-31 15:18",
+    "sender": "Advik",
+    "content": "Exactly. Think of keto as a tool to improve your 'metabolic range.' Once flexibility is built, you can move between fuel sources depending on context (travel, training, recovery)."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-12-31 15:27",
+    "sender": "Rohan",
+    "content": "Makes sense. Framing it that way resonates—feels less like a diet, more like building adaptability."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-12-31 19:50",
+    "sender": "Ruby",
+    "content": "Noted your question on long-term strategy. We’ll embed 'metabolic flexibility' as a guiding concept in Q3 planning so it’s front and center."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2026-01-01 08:33",
+    "sender": "Dr Warren",
+    "content": "Rohan, looking at your resilience data: your HRV has stayed stable even under travel/training stress. That’s a strong indicator your autonomic system is far more robust now. This significantly reduces risk of POTS/Long COVID flare-ups. Our quarterly monitoring continues, but this is very reassuring."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2026-01-01 08:48",
+    "sender": "Rohan",
+    "content": "That’s very reassuring to hear Warren. Always at the back of my mind, so data like this helps me trust the system more."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2026-01-01 09:05",
+    "sender": "Ruby",
+    "content": "I’ll add Warren’s note into your longitudinal record so you have that datapoint easily accessible for future reference."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2026-01-01 11:20",
+    "sender": "Neel",
+    "content": "Happy New Year Rohan 🥂. Entering 2026 with a very strong foundation—you’ve successfully closed Q2 and launched Q3 with focus and discipline. Impressive momentum."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2026-01-01 11:36",
+    "sender": "Rohan",
+    "content": "Thanks Neel—appreciate the perspective. Feels like we’re building something durable here."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2026-01-02 07:45",
+    "sender": "Rachel",
+    "content": "Rohan, quick PT note: even on keto, your recovery from HIIT sessions looks solid. Just flagging—hydration + electrolytes are key here. Add an electrolyte packet on training mornings to keep HRV from dipping."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2026-01-02 08:00",
+    "sender": "Rohan",
+    "content": "Got it, Rachel. Will make sure Javier stocks more packets."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2026-01-02 10:42",
+    "sender": "Carla",
+    "content": "Rohan, as we approach the end of keto on Sunday, I’ve sent a 'Carb Re-introduction Protocol' to you and Javier. We’ll reintroduce low-glycemic carbs slowly, monitoring your CGM for real-time feedback."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2026-01-02 10:55",
+    "sender": "Rohan",
+    "content": "Perfect. Having a clear exit plan makes me feel more comfortable. Thanks for thinking ahead."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2026-01-02 17:12",
+    "sender": "Ruby",
+    "content": "Logged Carla’s transition protocol in your Q3 playbook so you and Javier can track easily. Smooth wind-down is priority ✅."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2026-01-02 20:30",
+    "sender": "Advik",
+    "content": "Also worth noting: your CGM response during keto has been very flat—minimal spikes. When we reintroduce carbs, it’ll be a chance to quantify just how much metabolic flexibility you’ve gained."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2026-01-02 20:45",
+    "sender": "Rohan",
+    "content": "Looking forward to that data. Will be interesting to see the before/after contrast."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2026-01-03 09:00",
+    "sender": "Ruby",
+    "content": "Final keto weekend! Just checking: how’s energy and focus today?"
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2026-01-03 09:15",
+    "sender": "Rohan",
+    "content": "Still sharp, no energy dips. Honestly, feels sustainable."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2026-01-03 09:28",
+    "sender": "Ruby",
+    "content": "Noted 👍. We’ll capture this subjective experience alongside your numbers for a full debrief."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2026-01-03 14:20",
+    "sender": "Carla",
+    "content": "Quick reminder: tomorrow’s your last keto day. Monday Javier will begin the carb re-intro protocol—starting with lentils and berries. Watch CGM closely."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2026-01-03 14:35",
+    "sender": "Rohan",
+    "content": "Got it. Javier’s already briefed. Excited to see how body responds."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2026-01-03 17:45",
+    "sender": "Neel",
+    "content": "This wraps up an important two-week sprint, Rohan. You ran the experiment with discipline, and the data looks strong. We’ll use it as a model for future self-directed cycles."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2026-01-03 18:00",
+    "sender": "Rohan",
+    "content": "Appreciate that Neel. Honestly, the framing of this as an 'experiment' made it easier to commit. Learned a lot."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2026-01-03 20:20",
+    "sender": "Ruby",
+    "content": "I’ll schedule a formal keto debrief for mid-next week so we can package findings neatly into your Q3 record. Will coordinate with Sarah."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2026-01-03 20:35",
+    "sender": "Rohan",
+    "content": "Thanks Ruby. You make all this feel effortless 🙏."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2026-01-03 21:10",
+    "sender": "Dr Warren",
+    "content": "One last medical note before you transition: no concerns on labs or vitals from keto so far. Safe to proceed with Carla’s re-intro protocol."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2026-01-03 21:22",
+    "sender": "Rohan",
+    "content": "Good to hear, Warren. Appreciate the close watch."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2026-01-03 22:00",
+    "sender": "Ruby",
+    "content": "Great close to the week. All logs updated. Sleep well Rohan—we’ll start the reintroduction journey on a strong note Monday 🌙."
+  }
+]

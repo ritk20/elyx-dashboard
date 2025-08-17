@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-11-02 08:05",
+    "sender": "Ruby",
+    "content": "Morning Rohan. Just confirming your full-body MRI is booked for Tue 4 Nov, 8:30 AM at Prenuvo. I'll be on-site to handle check-in so you can go straight in."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-11-02 08:22",
+    "sender": "Rohan",
+    "content": "Perfect, thanks Ruby. Appreciate you taking care of the logistics 🙏"
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-11-02 12:40",
+    "sender": "Neel",
+    "content": "Hi Rohan, wanted to note again how significant your ApoB improvement is, 88 mg/dL is firmly into optimal range. This MRI will help us go even deeper into prevention."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-11-02 13:05",
+    "sender": "Rohan",
+    "content": "That's good to hear, Neel. Makes the effort feel worthwhile."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-11-02 18:55",
+    "sender": "Carla",
+    "content": "Rohan, just a quick note - your cook asked about dinner swaps. I suggested more oily fish this week (salmon, mackerel) to reinforce the ApoB gains. Sound ok?"
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-11-02 19:10",
+    "sender": "Rohan",
+    "content": "Yep, that works. Thanks Carla."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-11-03 07:00",
+    "sender": "Rachel",
+    "content": "Morning Rohan, reminder that we're on the new 2-week cycle for your training plan. Today's session is light mobility + short run. Keep HR in Zone 2."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-11-03 07:12",
+    "sender": "Rohan",
+    "content": "Got it. Quick 20 mins before work should be doable."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-11-03 09:45",
+    "sender": "Ruby",
+    "content": "Just confirming, driver is arranged for tomorrow's MRI, pickup 7:45 AM. I'll meet you directly at reception."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-11-03 10:05",
+    "sender": "Rohan",
+    "content": "Thanks Ruby, smooth as always."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-11-04 08:15",
+    "sender": "Ruby",
+    "content": "I'm at Prenuvo now. Priority check-in is ready, just walk straight in when you arrive."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-11-04 08:33",
+    "sender": "Rohan",
+    "content": "All checked in, thanks for being here."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-11-04 11:05",
+    "sender": "Ruby",
+    "content": "MRI completed. Dr. Warren will review the scans with the specialist radiologist this afternoon. We'll update you tomorrow."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-11-04 11:25",
+    "sender": "Rohan",
+    "content": "Great. Was smoother than expected, thanks for handling it."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-11-04 18:40",
+    "sender": "Rohan",
+    "content": "I've been thinking about our discussion on cognitive reserve. I've decided I want to start learning the piano. I see this as part of my long-term health strategy."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-11-04 19:05",
+    "sender": "Neel",
+    "content": "That's an excellent decision, Rohan. We'll officially add 'Weekly Piano Practice' as a 'Pillar 5: Cognitive Health' in your plan. This is a true Stage 3 milestone: you're co-creating your journey."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-11-04 19:20",
+    "sender": "Rohan",
+    "content": "Feels good to add something proactive and enjoyable into the mix."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-11-05 08:20",
+    "sender": "Advik",
+    "content": "To measure piano's impact on cognitive performance, I suggest a quick daily journal. Just rate your mental focus 1-5. We'll correlate with practice consistency."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-11-05 08:45",
+    "sender": "Rohan",
+    "content": "Simple enough. I'll start logging today."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-11-05 12:10",
+    "sender": "Ruby",
+    "content": "Would it help if I researched top-rated piano instructors near you who work with adult learners? I can shortlist based on availability."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-11-05 12:30",
+    "sender": "Rohan",
+    "content": "Yes please. That'd save me time."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-11-05 17:50",
+    "sender": "Dr Warren",
+    "content": "I've reviewed your MRI with the radiologist. Results are reassuring - no concerning findings. This is an important longevity baseline. We'll share a written summary for your records."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-11-05 18:05",
+    "sender": "Rohan",
+    "content": "That's a relief. Thanks Warren."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-11-06 07:10",
+    "sender": "Rachel",
+    "content": "Rohan, today's movement block is light strength—bodyweight and resistance bands only. Just 15-20 min, fits before work."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-11-06 07:25",
+    "sender": "Rohan",
+    "content": "On it. Quick session now."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-11-06 11:40",
+    "sender": "Ruby",
+    "content": "I've shortlisted 3 piano instructors - two offer in-home sessions, one has a studio near your office. Sending profiles separately for you to pick."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-11-06 12:00",
+    "sender": "Rohan",
+    "content": "Brilliant, thanks Ruby."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-11-06 19:15",
+    "sender": "Rohan",
+    "content": "Advik, I read that neuroplasticity benefits of instruments tie to 'deliberate practice'. Any good frameworks on what that looks like?"
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-11-06 19:40",
+    "sender": "Advik",
+    "content": "Great question. Deliberate practice = focused, structured, slightly beyond current ability, with feedback. I'll send you a resource by Ericsson on it, clear frameworks you can apply to piano."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-11-06 20:00",
+    "sender": "Rohan",
+    "content": "That'd be perfect, thanks. I like having structure."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-11-07 07:55",
+    "sender": "Ruby",
+    "content": "Morning! Just checking how yesterday's focus rating went. Was the 1-5 scale easy enough to log?"
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-11-07 08:20",
+    "sender": "Rohan",
+    "content": "Yep, logged a 3 yesterday. Simple system."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-11-07 09:05",
+    "sender": "Neel",
+    "content": "This new pillar really reflects where you are in the journey, Rohan - balancing health, resilience, and now cognitive enrichment. It's a strong signal of long-term alignment."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-11-07 09:25",
+    "sender": "Rohan",
+    "content": "Agree. Feels like the right next step."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-11-07 19:10",
+    "sender": "Carla",
+    "content": "By the way, piano practice in evenings can replace a late snack habit. If you notice evening munchies, try a short practice session instead."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-11-07 19:35",
+    "sender": "Rohan",
+    "content": "Nice hack, I'll test it out."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-11-08 08:05",
+    "sender": "Ruby",
+    "content": "Quick reminder: your updated weekly dashboard will include piano practice consistency + focus scores starting Monday."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-11-08 08:25",
+    "sender": "Rohan",
+    "content": "Excellent. Looking forward to seeing that."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-11-08 13:40",
+    "sender": "Rachel",
+    "content": "How's your back feeling after adding piano posture to your day? We may need to tweak stretching if you notice stiffness."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-11-08 14:05",
+    "sender": "Rohan",
+    "content": "All good so far, Rachel. Will flag if anything comes up."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-08-11 07:42",
+    "sender": "Neel",
+    "content": "Morning Rohan — with your diagnostic review done, this week’s about delivering your first full integrated plan. Ruby will walk you through logistics, and Carla will loop in Javier for the nutrition framework."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-08-11 08:05",
+    "sender": "Rohan",
+    "content": "Got it, Neel. Excited to see it all come together 👍"
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-08-11 09:18",
+    "sender": "Ruby",
+    "content": "Hi Rohan — I've booked a 30-min video call Wed 11:30 with Carla + Javier to go through the practical swaps for your meals. Will send link later."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-08-11 09:26",
+    "sender": "Rohan",
+    "content": "Perfect, thanks Ruby."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-08-11 14:42",
+    "sender": "Advik",
+    "content": "Quick data note: last Sat, your Oura data showed HRV dropped ~20% and deep sleep shortened after 2+ drinks. One drink had no noticeable impact. Might help in planning recovery & cognitive workdays."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-08-11 15:01",
+    "sender": "Rohan",
+    "content": "That's interesting… makes sense why Sunday morning felt foggy."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-08-11 18:35",
+    "sender": "Ruby",
+    "content": "Confirming with you right now, all supplements (Vit D3/K2, Omega-3, psyllium husk) ordered, will be delivered Wed. Subscriptions set for monthly refill."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-08-12 07:21",
+    "sender": "Rohan",
+    "content": "Morning Carla. I've been meaning to tell you I really don't like protein shakes."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-08-12 07:34",
+    "sender": "Carla",
+    "content": "Morning! Are you open to exploring Greek yogurt or cottage cheese if we drop powders?"
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-08-12 07:36",
+    "sender": "Carla",
+    "content": "Some quick whole-food swaps could be: Greek yogurt + berries, cottage cheese + fruit, or pre-cooked chicken skewers with veg. All 15-20g protein in ~200cal."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-08-12 07:38",
+    "sender": "Rohan",
+    "content": "That would be perfect. Will try it out tomorrow."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-08-12 10:05",
+    "sender": "Ruby",
+    "content": "I have coordinated with Sarah and Javier to arrange for the desired swaps. You are all ready to go on the new diet from tomorrow!"
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-08-12 10:07",
+    "sender": "Ruby",
+    "content": "Also, heads-up: your Consolidated Supplement Protocol doc is in your inbox with clear dosages & timing, so you don't need to think about it."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-08-12 12:18",
+    "sender": "Rohan",
+    "content": "Got it. Looks clean and easy to follow."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-08-12 17:46",
+    "sender": "Rachel",
+    "content": "How's the daily mobility drill going? Even 5 min keeps that muscle imbalance from creeping back."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-08-12 18:12",
+    "sender": "Rohan",
+    "content": "4/7 last week… better than before but room to improve."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-08-12 18:16",
+    "sender": "Rachel",
+    "content": "Good progress. Let's aim for 5/7 this week. Maybe you can even tie it to your morning coffee as a cue."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-08-13 08:09",
+    "sender": "Ruby",
+    "content": "Reminder: Javier call at 11:30 today. Zoom link here: [link]"
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-08-13 11:33",
+    "sender": "Carla",
+    "content": "Hi Javier, we'll keep it simple. 1) Swap seed oils for avocado/olive. 2) Add psyllium husk in smoothies. 3) Boost protein to ~120g/day for Rohan."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-08-13 11:49",
+    "sender": "Rohan",
+    "content": "Thanks both. That was painless. Appreciate you taking it off my plate 🙏"
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-08-13 15:08",
+    "sender": "Ruby",
+    "content": "By the way, supplements arrived at your condo lobby. I'll message Sarah to bring them in."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-08-13 20:56",
+    "sender": "Rohan",
+    "content": "Sarah confirmed, all good."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-08-14 07:12",
+    "sender": "Dr Warren",
+    "content": "Morning Rohan. Just flagging, Vit D3/K2 best taken with a fat-containing meal for absorption. Otherwise no changes for now."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-08-14 07:25",
+    "sender": "Rohan",
+    "content": "Got it. I'll take it with breakfast."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-08-14 13:14",
+    "sender": "Ruby",
+    "content": "We'll push your strength session tomorrow earlier since you're flying to Jakarta in the evening."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-08-14 13:18",
+    "sender": "Rohan",
+    "content": "Thanks, that works."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-08-15 08:05",
+    "sender": "Carla",
+    "content": "Your 'Big 3' nutrition priorities for the next quarter: 1) Increase soluble fiber (think oats, legumes, psyllium) to lower ApoB, 2) Hit 1.6g/kg protein daily, 3) Eliminate processed seed oils. Will text Javier about them as well"
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-08-15 08:21",
+    "sender": "Rohan",
+    "content": "Easy to remember. Appreciate it."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-08-15 10:36",
+    "sender": "Ruby",
+    "content": "Your hotel in Jakarta confirmed high-protein breakfast options. I'll check in Sat to see how it works for you."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-08-15 18:40",
+    "sender": "Rohan",
+    "content": "Boarding now"
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-08-16 07:18",
+    "sender": "Ruby",
+    "content": "Morning (Jakarta time) — how was that breakfast test run?"
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-08-16 07:42",
+    "sender": "Rohan",
+    "content": "Tried the omelette + yogurt combo. Surprisingly filling."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-08-16 07:55",
+    "sender": "Ruby",
+    "content": "Good to know. We'll keep that as a travel fallback."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-08-16 21:16",
+    "sender": "Advik",
+    "content": "Your step count today is way up (19k). Might want an earlier wind-down to offset travel fatigue."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-08-16 21:26",
+    "sender": "Rohan",
+    "content": "Will do. Big day tomorrow too."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-08-17 06:48",
+    "sender": "Ruby",
+    "content": "Sarah, is the flight back to SG still on schedule for 8pm? I'll have Monday morning plan updates waiting."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-08-17 06:55",
+    "sender": "Sarah",
+    "content": "Yes, no changes."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-08-17 19:08",
+    "sender": "Ruby",
+    "content": "Safe flight back. Will message in the AM once your updated plan is in the app."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-08-17 19:15",
+    "sender": "Rohan",
+    "content": "Thanks Ruby. Good week of progress overall."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-08-17 22:43",
+    "sender": "Ruby",
+    "content": "Glad to hear that — we'll keep building on it next week."
+  }
+]

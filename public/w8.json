@@ -1,0 +1,242 @@
+[
+    {
+        "id": "msg_001",
+        "timestamp": "2025-08-25 07:25",
+        "sender": "Ruby",
+        "content": "Morning Rohan, hope you had a good weekend. Neel wants to lock your Q1 Health Review call for Wed. Does 8:00 AM work?"
+    },
+    {
+        "id": "msg_002",
+        "timestamp": "2025-08-25 07:32",
+        "sender": "Rohan",
+        "content": "Morning Ruby. 8 works, block 45 mins please."
+    },
+    {
+        "id": "msg_003",
+        "timestamp": "2025-08-25 07:34",
+        "sender": "Ruby",
+        "content": "Done. Invites sent. Will loop in Dr. Warren, Advik, Carla & Rachel."
+    },
+    {
+        "id": "msg_004",
+        "timestamp": "2025-08-25 09:50",
+        "sender": "Rachel",
+        "content": "Reminder — in-person session tomorrow, 7 AM at your home gym. We'll walk through goblet squats, RDLs, and rows."
+    },
+    {
+        "id": "msg_005",
+        "timestamp": "2025-08-25 09:53",
+        "sender": "Rohan",
+        "content": "Yep, on my calendar. Looking forward to fixing my form."
+    },
+    {
+        "id": "msg_006",
+        "timestamp": "2025-08-25 11:10",
+        "sender": "Carla",
+        "content": "Quick one — how's Javier finding the updated protein plan? Any adjustments needed?"
+    },
+    {
+        "id": "msg_007",
+        "timestamp": "2025-08-25 11:15",
+        "sender": "Rohan",
+        "content": "He's good with it. Greek yogurt in rotation, chicken skewers twice a week."
+    },
+    {
+        "id": "msg_008",
+        "timestamp": "2025-08-25 11:18",
+        "sender": "Carla",
+        "content": "Perfect. We'll stick with that for now."
+    },
+    {
+        "id": "msg_009",
+        "timestamp": "2025-08-26 06:58",
+        "sender": "Rachel",
+        "content": "I'm outside — ready when you are."
+    },
+    {
+        "id": "msg_010",
+        "timestamp": "2025-08-26 07:00",
+        "sender": "Rohan",
+        "content": "Coming down — coffee in hand ☕"
+    },
+    {
+        "id": "msg_011",
+        "timestamp": "2025-08-26 08:05",
+        "sender": "Rachel",
+        "content": "Great session. Your squat depth's improved; just keep bracing core. We'll check again in 2 weeks."
+    },
+    {
+        "id": "msg_012",
+        "timestamp": "2025-08-26 08:07",
+        "sender": "Rohan",
+        "content": "Noted. Feels more stable already."
+    },
+    {
+        "id": "msg_013",
+        "timestamp": "2025-08-26 12:45",
+        "sender": "Ruby",
+        "content": "Rohan — Wed’s review will cover integrated plan v1.0 + Q2 goals. You’ll hear from each expert for 5 mins, then Neel will wrap with KPIs."
+    },
+    {
+        "id": "msg_014",
+        "timestamp": "2025-08-26 12:47",
+        "sender": "Rohan",
+        "content": "Got it. Keep it tight; I’ve a call at 8:50."
+    },
+    {
+        "id": "msg_015",
+        "timestamp": "2025-08-27 08:00",
+        "sender": "Neel",
+        "content": "Morning all — let’s start the Q1 Health Review. Big picture: you’ve built strong habits; now we’ll sharpen focus for Q2."
+    },
+    {
+        "id": "msg_016",
+        "timestamp": "2025-08-27 08:03",
+        "sender": "Dr Warren",
+        "content": "From the clinical side: goal is 15% ApoB reduction by next test. Keep current supplements; recheck lipids in 12 weeks."
+    },
+    {
+        "id": "msg_017",
+        "timestamp": "2025-08-27 08:06",
+        "sender": "Carla",
+        "content": "Nutrition: maintain high-soluble fiber, 1.6g/kg protein, no processed seed oils. Javier’s executing well — minimal tweaks."
+    },
+    {
+        "id": "msg_018",
+        "timestamp": "2025-08-27 08:09",
+        "sender": "Rachel",
+        "content": "Movement: stick to 3 strength + 2 Zone 2 sessions/week. Form from yesterday was strong."
+    },
+    {
+        "id": "msg_019",
+        "timestamp": "2025-08-27 08:12",
+        "sender": "Advik",
+        "content": "Recovery: aim for +10% HRV avg and consistent 7+ hrs sleep. Keep alcohol ≤1 drink/session."
+    },
+    {
+        "id": "msg_020",
+        "timestamp": "2025-08-27 08:15",
+        "sender": "Neel",
+        "content": "Q2 KPIs: ApoB ↓15%, HRV ↑10%, 3x strength/wk, 60 min Zone 2/wk. Thoughts?"
+    },
+    {
+        "id": "msg_021",
+        "timestamp": "2025-08-27 08:17",
+        "sender": "Rohan",
+        "content": "All good — let’s also track subjective mental focus. That’s big for me."
+    },
+    {
+        "id": "msg_022",
+        "timestamp": "2025-08-27 08:19",
+        "sender": "Neel",
+        "content": "Agreed — adding it. Will define a weekly self-rating scale."
+    },
+    {
+        "id": "msg_023",
+        "timestamp": "2025-08-27 08:25",
+        "sender": "Ruby",
+        "content": "Call done ✅ Will send Health Optimization Plan v1.0 doc + goals summary within the hour."
+    },
+    {
+        "id": "msg_024",
+        "timestamp": "2025-08-27 09:05",
+        "sender": "Ruby",
+        "content": "Here’s the link to v1.0 plan: [secure link]. Summary attached. All goals locked for Q2."
+    },
+    {
+        "id": "msg_025",
+        "timestamp": "2025-08-27 09:08",
+        "sender": "Rohan",
+        "content": "Got it. Nicely pulled together 🙏"
+    },
+    {
+        "id": "msg_026",
+        "timestamp": "2025-08-28 07:20",
+        "sender": "Rachel",
+        "content": "How’s the first solo session with new lifts? Any sticking points?"
+    },
+    {
+        "id": "msg_027",
+        "timestamp": "2025-08-28 07:25",
+        "sender": "Rohan",
+        "content": "Felt good, but rows might need lighter weight — last set was shaky."
+    },
+    {
+        "id": "msg_028",
+        "timestamp": "2025-08-28 07:28",
+        "sender": "Rachel",
+        "content": "Drop 2.5 kg for now, rebuild form, then progress."
+    },
+    {
+        "id": "msg_029",
+        "timestamp": "2025-08-28 09:40",
+        "sender": "Carla",
+        "content": "Any boredom with the current breakfast lineup yet?"
+    },
+    {
+        "id": "msg_030",
+        "timestamp": "2025-08-28 09:42",
+        "sender": "Rohan",
+        "content": "Not yet. Javier’s rotating berries and tropical fruit — keeps it fresh."
+    },
+    {
+        "id": "msg_031",
+        "timestamp": "2025-08-28 09:45",
+        "sender": "Carla",
+        "content": "Perfect. That variety helps with micronutrients too."
+    },
+    {
+        "id": "msg_032",
+        "timestamp": "2025-08-29 07:15",
+        "sender": "Rachel",
+        "content": "Mobility drills update? Staying consistent?"
+    },
+    {
+        "id": "msg_033",
+        "timestamp": "2025-08-29 07:18",
+        "sender": "Rohan",
+        "content": "5/7 days this week — missed two early calls."
+    },
+    {
+        "id": "msg_034",
+        "timestamp": "2025-08-29 07:20",
+        "sender": "Rachel",
+        "content": "That’s solid. Aim for 6/7 next week — even 5 mins counts."
+    },
+    {
+        "id": "msg_035",
+        "timestamp": "2025-08-29 10:00",
+        "sender": "Ruby",
+        "content": "Neel’s added the mental focus tracker to your weekly dashboard. Starts Monday."
+    },
+    {
+        "id": "msg_036",
+        "timestamp": "2025-08-29 10:03",
+        "sender": "Rohan",
+        "content": "Nice. Will log after my first strength session of the week."
+    },
+    {
+        "id": "msg_037",
+        "timestamp": "2025-08-30 08:50",
+        "sender": "Ruby",
+        "content": "Quick wrap-up: in-person session ✅, Q2 goals set, mental focus added. Anything urgent for next week?"
+    },
+    {
+        "id": "msg_038",
+        "timestamp": "2025-08-30 08:55",
+        "sender": "Rohan",
+        "content": "Nope — smooth week. Thanks for running point on everything."
+    },
+    {
+        "id": "msg_039",
+        "timestamp": "2025-08-30 08:57",
+        "sender": "Ruby",
+        "content": "Always a pleasure, Rohan. Enjoy the weekend! 🌤️"
+    },
+    {
+        "id": "msg_040",
+        "timestamp": "2025-08-30 09:00",
+        "sender": "Rohan",
+        "content": "You too, Ruby 👍"
+    }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-11-16 08:12",
+    "sender": "Dr Warren",
+    "content": "Excellent news, Rohan. Your CAC score is 0. This is the best possible result - no detectable calcified plaque in your coronary arteries. It's a strong reassurance that our preventative strategy is working exactly as intended."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-11-16 08:24",
+    "sender": "Rohan",
+    "content": "That's a huge relief, Warren. Gives me confidence the effort is worth it."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-11-16 09:02",
+    "sender": "Ruby",
+    "content": "Morning Rohan. I'll document the CAC outcome in your health timeline and update your dashboard. Congratulations - this is a big win. Shall I also share a summary with Sarah for your medical file?"
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-11-16 09:15",
+    "sender": "Rohan",
+    "content": "Yes please, Ruby. Good to have it on record."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-11-16 18:46",
+    "sender": "Neel",
+    "content": "Rohan, I just wanted to acknowledge this milestone. A CAC of 0 at 46 is powerful. It validates the strategy we've built together. You've embraced the role of co-researcher in your own health, and it's showing clearly in the data."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-11-16 19:03",
+    "sender": "Rohan",
+    "content": "Appreciate you saying that, Neel. Definitely feels like we're steering things rather than reacting."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-11-17 07:28",
+    "sender": "Ruby",
+    "content": "Quick reminder, Rohan - the cook is testing two new low-GI breakfast options this week. I'll send you feedback forms after day 3 so we can choose which one to keep long-term."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-11-17 07:41",
+    "sender": "Rohan",
+    "content": "Sounds good. Will let you know how they sit before morning calls."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-11-17 21:10",
+    "sender": "Advik",
+    "content": "Evening, Rohan, here's a fascinating trend from last 4 weeks. On days where glycemic variability was high, your deep sleep that night dropped by an avg of 22 mins. This is the flywheel effect: Carla's nutrition plan isn't only metabolic; it's critical for recovery too."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-11-17 21:22",
+    "sender": "Rohan",
+    "content": "Very interesting. Does this flywheel extend to cognition as well? If I stabilize glucose, am I giving the brain steadier energy, helping the focus I've been tracking with piano practice?"
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-11-17 21:36",
+    "sender": "Advik",
+    "content": "Exactly. There's growing evidence that stable glucose correlates with more consistent cognitive performance. Early signal in your focus scores supports this. We'll keep tracking to strengthen the hypothesis"
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-11-18 06:59",
+    "sender": "Carla",
+    "content": "Rohan, just to connect the dots, when you keep post-meal glucose steady, you're not only protecting your heart and sleep, you're literally fueling your brain in a more even way. Food becomes a tool for sharper cognition."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-11-18 07:12",
+    "sender": "Rohan",
+    "content": "That framing helps, Carla. Makes it easier to stick with it when I see the link beyond just cholesterol numbers."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-11-18 13:44",
+    "sender": "Ruby",
+    "content": "I've coordinated with Sarah - the mobile phlebotomist is confirmed for Tuesday 25th at 8am for your Q2 diagnostics. Please remember 12h fasting. I'll send you and Sarah a reminder the day before."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-11-18 14:02",
+    "sender": "Rohan",
+    "content": "Thanks Ruby, noted. Tuesday works."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-11-18 21:00",
+    "sender": "Rachel",
+    "content": "Quick note: the mobility drills you've been doing pre-calls are paying off. Your Garmin load shows less HR fluctuation during presentations. Let's progress next week into a slightly longer dynamic warmup."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-11-18 21:13",
+    "sender": "Rohan",
+    "content": "Great! Honestly those 5 mins before Zooms help me feel sharper. Let's push it a bit more."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-11-19 06:55",
+    "sender": "Ruby",
+    "content": "Morning Rohan, just checking, did the new breakfast variation (chia-yogurt blend) work for you? The cook asked for feedback."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-11-19 07:09",
+    "sender": "Rohan",
+    "content": "Texture was fine, less heavy than oats. Can keep this one."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-11-19 19:22",
+    "sender": "Dr Warren",
+    "content": "As we approach your Q2 blood panel, the key is maintaining consistency this week. That way the results reflect your actual progress. No sudden changes - steady state gives us clean, reliable data."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-11-19 19:36",
+    "sender": "Rohan",
+    "content": "Understood. Will stay the course until the draw."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-11-20 08:18",
+    "sender": "Ruby",
+    "content": "Morning reminder. Hydration target is 2.5L today (humid weather flagged in forecast). I'll have the cook add infused water pitchers at your desk setup."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-11-20 08:33",
+    "sender": "Rohan",
+    "content": "Perfect, thanks Ruby."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-11-20 12:44",
+    "sender": "Neel",
+    "content": "Just stepping in briefly, Rohan, closing in on Q2, your adherence sits right on the 50% we modelled, but the *quality* of execution is high. That's why outcomes like CAC=0 are possible. Keep your eye on consistency this week."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-11-20 13:05",
+    "sender": "Rohan",
+    "content": "Good perspective, Neel. Will focus on not overcomplicating this final stretch."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-11-20 21:10",
+    "sender": "Carla",
+    "content": "Noticed you skipped lunch today, watch for rebound snacking later. I'll suggest a quick high-protein option to keep glucose steady if that happens."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-11-20 21:26",
+    "sender": "Rohan",
+    "content": "Yeah, back-to-back calls killed lunch. Will take your backup snack tomorrow if same thing repeats."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-11-21 06:42",
+    "sender": "Ruby",
+    "content": "Friendly nudge - morning HRV dipped slightly today. Nothing concerning, but maybe swap your run for mobility + light cardio? Rachel agrees."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-11-21 07:01",
+    "sender": "Rohan",
+    "content": "Alright, will dial it back. Thanks for catching it."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-11-21 11:48",
+    "sender": "Rachel",
+    "content": "Good call adjusting this morning. Micro-recoveries like today will keep the flywheel spinning without breakdown. Trust the rhythm 👍"
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-11-21 12:03",
+    "sender": "Rohan",
+    "content": "Makes sense. Actually felt fresher heading into calls."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-11-21 20:16",
+    "sender": "Advik",
+    "content": "Latest data set uploaded - flywheel trend still strong: lower glycemic swings → more deep sleep → better recovery scores. This triad is becoming the cornerstone of your health system."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-11-21 20:29",
+    "sender": "Rohan",
+    "content": "Clear to see now. Small levers compounding into bigger wins."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-11-22 07:24",
+    "sender": "Ruby",
+    "content": "Hi Rohan, just a heads-up - the phlebotomist will arrive Tue 25th, 8am sharp. Fasting from 8pm the night before. I'll check in Mon evening to confirm logistics."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-11-22 07:38",
+    "sender": "Rohan",
+    "content": "Noted. Appreciate you staying on top of this, Ruby."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-11-22 13:57",
+    "sender": "Carla",
+    "content": "One last nutrition tweak for the week: try moving your fruit portion into the first half of the day. Better glucose stability in evenings → smoother sleep onset."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-11-22 14:12",
+    "sender": "Rohan",
+    "content": "Got it. Will test tomorrow."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-11-22 20:44",
+    "sender": "Neel",
+    "content": "Closing note for the week - Rohan, the team's aligned and you're in a great place heading into diagnostics. This week showed the flywheel effect in action. You've turned this into a genuine partnership with your own health."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-11-22 21:01",
+    "sender": "Rohan",
+    "content": "Thanks Neel. Feels like momentum's building in the right way."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-11-22 21:18",
+    "sender": "Ruby",
+    "content": "Perfect wrap to the week. I'll consolidate notes for your Monday dashboard. Enjoy the weekend with the family, Rohan."
+  }
+]

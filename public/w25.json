@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-12-21 08:45",
+    "sender": "Ruby",
+    "content": "Good morning Rohan 🌞 just a quick reminder—your Q3 Kick-Off call is set for 10:00 today. Neel will lead, and everyone will be on. I’ll send the dial-in shortly."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-12-21 09:02",
+    "sender": "Rohan",
+    "content": "Thanks Ruby, I’ll be ready by 10."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-12-21 09:58",
+    "sender": "Neel",
+    "content": "Morning all, let’s kick off right on time. Today we’ll frame Q3 around your Longevity Decathlon goals and align execution with the keto experiment as our first initiative. 🚀"
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-12-21 10:15",
+    "sender": "Rohan",
+    "content": "Good framing Neel. Clear direction—let’s run with it."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-12-21 10:17",
+    "sender": "Ruby",
+    "content": "Perfect. I’ll circulate the Q3 execution notes right after this call so you have everything consolidated in one place."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-12-21 10:18",
+    "sender": "Rohan",
+    "content": "👍 Appreciate the quick follow-through."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-12-21 15:40",
+    "sender": "Rachel",
+    "content": "Rohan, noticed your Garmin flagged low step count today—understand it’s Sunday. Even a 20-min walk will help circulation and offset the keto stiffness you mentioned last week."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-12-21 16:05",
+    "sender": "Rohan",
+    "content": "Thanks Rachel, I’ll squeeze in a short walk before dinner."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-12-22 07:30",
+    "sender": "Ruby",
+    "content": "Morning! Quick heads-up—lab courier coming at 09:00 tomorrow for your scheduled quarterly blood draw. Sarah is aware."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-12-22 07:42",
+    "sender": "Rohan",
+    "content": "Noted. Thanks for keeping it tight Ruby."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-12-22 12:15",
+    "sender": "Carla",
+    "content": "I spoke with Javier today—he’s finding keto recipes straightforward and says sourcing hasn’t been an issue. He also noted your energy looks steadier throughout the day 💡. Valuable ecosystem data point."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-12-22 12:30",
+    "sender": "Rohan",
+    "content": "That’s great to hear. I do feel less of a 3pm dip."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-12-22 18:50",
+    "sender": "Ruby",
+    "content": "Rohan—small miss on my side 🙈. Forgot to include the Zoom link for tomorrow’s nutrition check-in. Just sent it over now."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-12-22 18:58",
+    "sender": "Rohan",
+    "content": "No worries Ruby, I saw it. All good 👍"
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-12-23 08:58",
+    "sender": "Ruby",
+    "content": "Courier is at the door for your labs. Shouldn’t take more than 10 mins."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-12-23 09:20",
+    "sender": "Rohan",
+    "content": "Done. Smooth as always."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-12-23 14:10",
+    "sender": "Advik",
+    "content": "Rohan, quick mid-experiment snapshot 📊: Week 2 of keto shows GKI steady in therapeutic range. Focus scores averaged 4.5—baseline was 3. Strong positive signal supporting your hypothesis."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-12-23 14:22",
+    "sender": "Rohan",
+    "content": "That’s encouraging. Thanks Advik, data matches how I’m feeling."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-12-23 17:55",
+    "sender": "Dr Warren",
+    "content": "Rohan, your HRV stability—even with travel and training load—shows your autonomic system is more resilient. This lowers risk of a POTS/long COVID flare. We’ll continue quarterly monitoring, but this is excellent progress."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-12-23 18:12",
+    "sender": "Rohan",
+    "content": "That’s reassuring Warren 🙏. Appreciate the proactive note."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-12-24 07:25",
+    "sender": "Ruby",
+    "content": "Morning Rohan—Rachel suggests a lighter stretch set today instead of full mobility. She’ll send you a short video clip."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-12-24 07:33",
+    "sender": "Rohan",
+    "content": "Perfect. 10 mins is all I can fit today anyway."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-12-24 10:05",
+    "sender": "Rohan",
+    "content": "Question for the team—assuming this focus boost holds, is the long-term play staying keto, or is this about building metabolic flexibility to switch fuels efficiently?"
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-12-24 10:40",
+    "sender": "Carla",
+    "content": "Great q. Keto isn’t a forever plan—it’s a tool. Long-term, we’re aiming for metabolic flexibility: smoothly shifting between carbs and fats. This preserves focus benefits while allowing dietary variety."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-12-24 11:05",
+    "sender": "Advik",
+    "content": "Exactly. Think of this as building the ‘muscle’ of fuel switching. We’ll test it during carb reintroduction next week using your CGM response."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-12-24 11:18",
+    "sender": "Rohan",
+    "content": "Makes sense—feels like a strategic skill for the body."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-12-25 08:00",
+    "sender": "Ruby",
+    "content": "Merry Christmas 🎄 Hope you’re enjoying family time. Just a reminder—nutrition call tomorrow is shifted to 16:00 at your request."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-12-25 08:12",
+    "sender": "Rohan",
+    "content": "Thanks Ruby, noted. Keeping today light."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-12-25 19:40",
+    "sender": "Rachel",
+    "content": "Quick check-in—holiday dinners can mean longer sitting. Try standing every 45 mins to ease circulation 👍"
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-12-25 20:02",
+    "sender": "Rohan",
+    "content": "Will do. Easy enough trick."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-12-26 15:55",
+    "sender": "Carla",
+    "content": "Rohan, as we approach the end of keto Sunday, I’ve sent you + Javier the Carb Re-introduction Protocol. We’ll add back specific low-glycemic carbs and monitor via CGM."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-12-26 16:20",
+    "sender": "Rohan",
+    "content": "Got it Carla, thanks for the foresight."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-12-26 20:45",
+    "sender": "Ruby",
+    "content": "Also—Q3 kickoff notes and actions are in your inbox. Let me know if you’d like me to set interim milestones with Sarah for calendar tracking."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-12-26 21:02",
+    "sender": "Rohan",
+    "content": "Please go ahead, Ruby. Milestones will keep me honest."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-12-27 08:10",
+    "sender": "Advik",
+    "content": "Noting for closure: GKI still consistent at optimal range this morning. Data set looks clean for end-of-experiment analysis Sunday."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-12-27 08:25",
+    "sender": "Rohan",
+    "content": "Excellent. Looking forward to full review."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-12-27 13:45",
+    "sender": "Ruby",
+    "content": "Reminder: tomorrow’s call at 09:00 will be short (15 mins). Just to formally close keto experiment and align on reintroduction."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-12-27 14:00",
+    "sender": "Rohan",
+    "content": "Got it, thanks Ruby. Good to keep it crisp."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-12-27 19:15",
+    "sender": "Carla",
+    "content": "Final note—please keep hydration high tonight and tomorrow as we shift. Electrolytes will help smooth transition."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-12-27 19:40",
+    "sender": "Rohan",
+    "content": "Noted Carla. I’ll top up electrolytes. Appreciate everyone’s support this round 🙏"
+  }
+]

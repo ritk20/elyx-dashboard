@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-11-30 08:15",
+    "sender": "Dr Warren",
+    "content": "Rohan, initial blood results are in and the news is excellent. ApoB has dropped further to 81 mg/dL. You're on the cusp of your Q2 goal of <80. hs-CRP also remains suppressed. Outstanding progress."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-11-30 08:27",
+    "sender": "Rohan",
+    "content": "That's fantastic to hear, Warren. Thanks for keeping me posted 🙏. Encouraging to see the effort translating into numbers."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-11-30 09:05",
+    "sender": "Ruby",
+    "content": "Morning Rohan, I’ve updated your tracker with the results Warren shared. VO₂ test confirmed Wed 9:30am, DEXA on Thu 2pm. Both reminders are in your calendar."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-11-30 09:22",
+    "sender": "Rohan",
+    "content": "Perfect, thanks Ruby. Wed 9:30 and Thu 2pm noted 👍."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-12-01 07:42",
+    "sender": "Advik",
+    "content": "Rohan, alongside the physical diagnostics, we’d like to establish a cognitive baseline. A 15-min validated online test will let us quantify focus, memory and processing speed. Shall I coordinate with Ruby?"
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-12-01 07:55",
+    "sender": "Rohan",
+    "content": "Makes sense, Advik. Please go ahead and loop Ruby in to schedule."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-12-01 08:12",
+    "sender": "Ruby",
+    "content": "Got it—link to the cognitive assessment will be in your inbox today. It takes ~15 mins and can be done anytime before Fri. Would evening work best?"
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-12-01 08:19",
+    "sender": "Rohan",
+    "content": "Yes, evenings are better. Will slot it in tomorrow night after dinner."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-12-02 21:05",
+    "sender": "Rohan",
+    "content": "Completed the cognitive test just now. Straightforward interface, no issues."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-12-02 21:17",
+    "sender": "Ruby",
+    "content": "Thanks for confirming Rohan, results are syncing to your dashboard. Advik will interpret and share context during Fri’s debrief with Warren."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-12-03 09:38",
+    "sender": "Ruby",
+    "content": "Checking in—did the VO₂ Max test go smoothly this morning?"
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-12-03 09:55",
+    "sender": "Rohan",
+    "content": "Yes, done ✔️. Pushed hard, felt controlled. Curious to see where I landed."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-12-03 10:04",
+    "sender": "Ruby",
+    "content": "Excellent—data is with Rachel already. We’ll compile into the long-term performance brief after your DEXA tomorrow."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-12-04 14:50",
+    "sender": "Ruby",
+    "content": "All set—DEXA completed and uploaded. That’s the last piece of your 6-month diagnostics ✅."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-12-04 15:05",
+    "sender": "Rohan",
+    "content": "Nice. Feels good to wrap the panel. Appreciate how smooth the process has been."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-12-04 16:10",
+    "sender": "Rachel",
+    "content": "Rohan, based on VO₂ and DEXA, here are your 12-month performance targets: 1) VO₂ Max → 45 mL/kg/min, 2) Body fat → 18%, 3) +5 lbs lean mass. This is your Longevity Decathlon brief."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-12-04 16:28",
+    "sender": "Rohan",
+    "content": "Clear and ambitious, Rachel. Like the framing of a 'decathlon'—gives me a north star."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-12-04 19:22",
+    "sender": "Rohan",
+    "content": "Quick one Rachel—looking at my next strength block. I like deadlifts but concerned about injury risk as weight climbs. Alternatives?"
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-12-04 19:35",
+    "sender": "Rachel",
+    "content": "Great point. Swap in trap bar deadlifts—they mimic the same movement pattern but shift load mechanics to reduce lower-back stress. Safer, equally effective."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-12-04 19:47",
+    "sender": "Rohan",
+    "content": "Appreciate that. One nuance: since trap bar feels more squat-like, do we lose posterior chain benefit, or does neural drive from heavy lifts keep systemic effect similar?"
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-12-04 20:02",
+    "sender": "Rachel",
+    "content": "Good question 👌. Yes, trap bar recruits more quads, but posterior chain is still highly engaged. Heavy loading still stimulates systemic neural and hormonal responses. Net benefit is preserved."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-12-04 20:16",
+    "sender": "Rohan",
+    "content": "Makes sense. Thanks for the clarity."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-12-05 08:25",
+    "sender": "Ruby",
+    "content": "Morning Rohan, reminder: your debrief call with Warren + team is today at 5pm. Link is in your calendar invite."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-12-05 08:34",
+    "sender": "Rohan",
+    "content": "Got it, thanks Ruby. Will be ready at 5."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-12-05 17:02",
+    "sender": "Dr Warren",
+    "content": "Rohan, to summarise: blood markers continue to improve (ApoB ↓, CRP stable). VO₂ and DEXA give us clear baselines. Cognitive test establishes Pillar 5. You’ve now got a fully co-created, data-anchored plan."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-12-05 17:16",
+    "sender": "Rohan",
+    "content": "That’s exactly what I was hoping for, Warren. Clear, measurable targets across all fronts."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-12-05 17:28",
+    "sender": "Neel",
+    "content": "Rohan, we’ve officially integrated 'Pillar 5: Cognitive & Mental Health' into your Elyx plan. Weekly piano practice + quarterly cognitive assessments are now formal KPIs. This makes your plan a living document."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-12-05 17:41",
+    "sender": "Rohan",
+    "content": "Love that it’s evolving with my goals. Thanks for capturing it so seamlessly, Neel."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-12-06 09:10",
+    "sender": "Carla",
+    "content": "Rohan, quick note—DEXA shows your lean mass distribution is solid. To push VO₂ and fat % goals, I suggest slightly increasing daily protein (1.8 g/kg). Cook can integrate with simple swaps if you’d like?"
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-12-06 09:22",
+    "sender": "Rohan",
+    "content": "Yes, let’s adjust. Please send 2–3 easy swaps for my cook to integrate."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-12-06 09:38",
+    "sender": "Carla",
+    "content": "Done—emailed Sarah a one-pager with: 1) swap white rice for quinoa twice weekly, 2) add edamame as side, 3) Greek yogurt for dessert. Easy integration."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-12-06 09:45",
+    "sender": "Rohan",
+    "content": "Perfect, thanks Carla. These seem very doable."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-12-06 12:05",
+    "sender": "Ruby",
+    "content": "Just wrapped all updates into your Elyx dashboard. Decathlon targets, cognitive pillar, nutrition tweaks—all visible now. Steady state till next labs."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-12-06 12:17",
+    "sender": "Rohan",
+    "content": "Appreciate the quick consolidation, Ruby 🙏. Great to see it all in one place."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-12-06 18:55",
+    "sender": "Advik",
+    "content": "Rohan, preliminary cognitive results: processing speed ~75th percentile, working memory ~70th. Good starting point—we’ll track quarterly to see impact of piano and other habits."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-12-06 19:07",
+    "sender": "Rohan",
+    "content": "Solid baseline. Excited to see if training moves those numbers upward over time."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-12-06 20:30",
+    "sender": "Neel",
+    "content": "Rohan, you’ve now reached a key milestone: full 6-month diagnostic cycle completed. The co-created plan, with 5 pillars, positions you strongly for 2026."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-12-06 20:44",
+    "sender": "Rohan",
+    "content": "Feels like a real step forward, Neel. Thanks to the whole team for making this structured yet flexible."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-12-06 21:05",
+    "sender": "Ruby",
+    "content": "Happy to hear that, Rohan 😊. We’ll keep you steady and sharp through Dec. Next check-in: quarterly labs in Feb unless anything urgent arises."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-12-06 21:12",
+    "sender": "Rohan",
+    "content": "Sounds good, Ruby. Appreciate how on top of everything you all are."
+  }
+]

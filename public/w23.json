@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-12-07 08:45",
+    "sender": "Dr Warren",
+    "content": "Excellent news, Rohan. The official report confirms your ApoB is 78 mg/dL. You’ve officially met and exceeded our Q2 target. Your hs-CRP is also down 50% from baseline. This is a direct result of your consistency."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-12-07 08:52",
+    "sender": "Rohan",
+    "content": "That’s fantastic, Warren 🙌. A big relief to see the numbers moving the right way. Thanks to you and the team for getting me here."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-12-07 09:00",
+    "sender": "Ruby",
+    "content": "Congratulations, Rohan 🎉. We’re really proud of the progress you’ve made. Would you like me to prepare a short milestone summary for your records?"
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-12-07 09:06",
+    "sender": "Rohan",
+    "content": "Yes, please. That’d be useful for me and also something I can share with my wife. Thanks Ruby."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-12-07 11:15",
+    "sender": "Neel",
+    "content": "This milestone is a keystone, Rohan. It validates the model we co-created. From here, we can safely expand into new performance layers with confidence."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-12-07 11:27",
+    "sender": "Rohan",
+    "content": "Agreed, Neel. Which brings me to Q3—I’d like to propose an experiment of my own."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-12-07 11:29",
+    "sender": "Rohan",
+    "content": "I’ve been reading about ketogenic diets improving mental clarity. Let’s run a strict 2-week keto protocol and track the impact on my daily focus scores."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-12-07 11:40",
+    "sender": "Ruby",
+    "content": "Love that initiative 👏. I’ll loop Carla and Advik right away so we can design the framework together."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-12-07 12:05",
+    "sender": "Neel",
+    "content": "Perfect example of Stage 3 partnership, Rohan. You’re taking the reins, and we’ll structure the support system around you."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-12-07 13:18",
+    "sender": "Advik",
+    "content": "Exciting. I’ll set up tracking for your focus scores, CGM, and HRV during the 2-week keto window. We’ll compare both subjective logs and objective data."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-12-07 13:26",
+    "sender": "Rohan",
+    "content": "Great. I’ll make sure to record notes on my focus daily. Short entries are fine, right?"
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-12-07 13:30",
+    "sender": "Advik",
+    "content": "Exactly. A quick 1–10 rating on focus, plus a brief line on your energy levels, will do the trick."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-12-07 16:02",
+    "sender": "Carla",
+    "content": "Rohan, this is a perfect opportunity to baseline your gut microbiome. Significant dietary changes like keto can shift its composition. We can run a simple at-home gut health test before you start."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-12-07 16:09",
+    "sender": "Rohan",
+    "content": "Interesting… so the microbiome is another variable in the flywheel. Does an altered microbiome have downstream effects on inflammation or neurotransmitter production that could explain cognitive changes?"
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-12-07 16:20",
+    "sender": "Carla",
+    "content": "Exactly. The gut-brain axis is bidirectional—microbial metabolites can influence inflammation, stress response, and neurotransmitters like GABA and serotonin. Capturing this now gives us a unique layer of data."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-12-07 16:25",
+    "sender": "Rohan",
+    "content": "Makes sense. Let’s add it in. Data is data 👍."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-12-07 19:50",
+    "sender": "Ruby",
+    "content": "I’ll arrange the gut microbiome test kit delivery this week. It’s a simple home swab—takes 10 minutes. Would you prefer it sent to your office or home?"
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-12-07 20:02",
+    "sender": "Rohan",
+    "content": "Home is better—easier to slot in. Sarah can handle the receipt."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-12-08 07:32",
+    "sender": "Ruby",
+    "content": "Confirmed—kit will reach your residence by Wednesday. I’ll send Javier’s meal guidelines once Carla finalizes the keto protocol."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-12-08 07:48",
+    "sender": "Rohan",
+    "content": "Thanks Ruby. That covers logistics nicely."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-12-08 12:10",
+    "sender": "Carla",
+    "content": "Drafting your 2-week keto experiment protocol now. It’ll include meal plans, shopping lists, and notes for Javier on hidden carbs to avoid."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-12-08 12:14",
+    "sender": "Rohan",
+    "content": "Perfect. That’ll make it easy to execute without thinking too much."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-12-08 15:55",
+    "sender": "Rachel",
+    "content": "Rohan, quick check-in: with keto, hydration and electrolytes are important. During your morning runs, let’s keep sodium and magnesium topped up. I’ll share a simple routine."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-12-08 16:02",
+    "sender": "Rohan",
+    "content": "Noted, Rachel. Please send the details—I’ll make sure Javier stocks the right supplements."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-12-09 09:45",
+    "sender": "Ruby",
+    "content": "Hi Rohan, courier confirms your gut microbiome kit is out for delivery today. I’ll ping once it’s signed for."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-12-09 12:18",
+    "sender": "Ruby",
+    "content": "Kit delivered and received by Sarah ✅."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-12-09 12:25",
+    "sender": "Rohan",
+    "content": "Great, I’ll plan to do the swab tomorrow morning before meetings."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-12-09 18:40",
+    "sender": "Advik",
+    "content": "I’ve set up your data dashboard for the experiment. It’ll show daily focus logs, CGM readings, and HRV. You’ll get a weekly snapshot from me."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-12-09 18:47",
+    "sender": "Rohan",
+    "content": "Excellent. A clean dashboard will help me stick to the protocol."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-12-10 07:50",
+    "sender": "Rohan",
+    "content": "Completed the microbiome swab this morning. Packed and ready for courier pickup."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-12-10 08:02",
+    "sender": "Ruby",
+    "content": "Thanks for confirming, Rohan. Courier scheduled for 10am today. I’ll track it till lab receipt."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-12-10 11:20",
+    "sender": "Carla",
+    "content": "Final version of your keto protocol is ready ✅. Document includes meal breakdowns, Javier’s checklist, and supplement notes. Sharing via PDF in the app now."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-12-10 11:27",
+    "sender": "Rohan",
+    "content": "Just skimmed—this looks thorough, Carla. Thanks for covering all the details."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-12-11 09:15",
+    "sender": "Ruby",
+    "content": "Lab has confirmed receipt of your gut microbiome kit. Results usually take 10–14 days. I’ll keep you posted."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-12-11 09:22",
+    "sender": "Rohan",
+    "content": "Perfect timing—we’ll have results alongside the keto experiment wrap-up."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-12-11 18:55",
+    "sender": "Neel",
+    "content": "This week shows the real evolution of your journey: from following to leading experiments. It’s a strong signal of maturity in the program."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-12-12 08:40",
+    "sender": "Rohan",
+    "content": "Appreciate that, Neel. I like feeling more in control of the levers now."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-12-12 12:18",
+    "sender": "Ruby",
+    "content": "All logistics complete: test kit sent, protocol delivered, dashboard live. You’re ready to start keto from Monday if that works for you."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-12-12 12:25",
+    "sender": "Rohan",
+    "content": "Monday works. Gives Javier the weekend to stock up. Let’s go 👍."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-12-13 17:02",
+    "sender": "Ruby",
+    "content": "Fantastic. I’ll set a Monday morning reminder for the experiment kick-off. Enjoy your weekend, Rohan 🌟."
+  }
+]

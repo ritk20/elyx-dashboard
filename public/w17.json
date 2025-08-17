@@ -1,0 +1,236 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-10-26 08:42",
+    "sender": "Ruby",
+    "content": "Morning Rohan, welcome back. Hope the jet lag's not too bad. We're set for the post-trip debrief with Advik tomorrow at 09:00 SGT."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-10-26 09:10",
+    "sender": "Rohan",
+    "content": "Thanks Ruby, still a bit foggy but surprisingly okay. Let's keep tomorrow's slot."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-10-26 17:55",
+    "sender": "Ruby",
+    "content": "Noted👍 Will send the Zoom link tonight so it's ready in your calendar."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-10-27 08:59",
+    "sender": "Advik",
+    "content": "Morning Rohan. Here's the HRV comparison from your recent US trip vs Q1 UK trip. Despite a more demanding schedule, avg HRV was 15% higher. Clear sign of increased resilience."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-10-27 09:03",
+    "sender": "Rohan",
+    "content": "That's solid. The travel protocol definitely helped."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-10-27 09:06",
+    "sender": "Advik",
+    "content": "Exactly. You maintained sleep regularity better this time, fewer HRV dips post-evening events."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-10-27 09:30",
+    "sender": "Ruby",
+    "content": "Dr. Warren will share the full blood panel later today. I'll ping once it's in."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-10-27 14:12",
+    "sender": "Dr Warren",
+    "content": "Excellent news, Rohan. ApoB is now 88 mg/dL - we've crossed the sub-100 threshold and are well on track to hit <80 by Q2."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-10-27 14:15",
+    "sender": "Rohan",
+    "content": "That's a big milestone. Appreciate the work from everyone 🙏"
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-10-27 14:18",
+    "sender": "Dr Warren",
+    "content": "Now that key risk factors are stabilizing, the logical next step in proactive screening is a full-body MRI to establish a baseline for detecting solid tumors early."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-10-27 14:21",
+    "sender": "Rohan",
+    "content": "Is a full-body MRI really necessary? What about false positives?"
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-10-27 14:27",
+    "sender": "Dr Warren",
+    "content": "It does help in early detection at highly treatable stages. However, incidental findings may trigger follow-up scans. The decision should balance your personal risk tolerance and your desire for maximum foresight."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-10-27 14:35",
+    "sender": "Rohan",
+    "content": "Since my hs-CRP dropped 40%, does that theoretically lower my baseline cancer risk, making a clean MRI baseline more valuable?"
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-10-27 14:40",
+    "sender": "Dr Warren",
+    "content": "Correct, lower inflammation likely reduces baseline risk. That makes an MRI now a strong 'clean slate' reference for future comparison."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-10-27 14:45",
+    "sender": "Rohan",
+    "content": "Alright, let's do it."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-10-27 14:49",
+    "sender": "Ruby",
+    "content": "Understood. I'll research top facilities like Prenuvo, compare protocols, and send you a summary. I'll coordinate scheduling with Sarah."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-10-28 08:11",
+    "sender": "Ruby",
+    "content": "Quick update: short-listed 3 facilities with advanced MRI protocols. Will send pros/cons doc by EOD."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-10-28 08:25",
+    "sender": "Rohan",
+    "content": "Perfect. Keep it concise so I can review between calls."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-10-28 12:50",
+    "sender": "Carla",
+    "content": "Morning Rohan. While we're ahead on lipids, keep sodium <2g today. Your travel meals bumped avg last week."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-10-28 12:55",
+    "sender": "Rohan",
+    "content": "Noted. Lunch is grilled chicken salad, no dressing."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-10-28 18:40",
+    "sender": "Ruby",
+    "content": "Sent MRI comparison doc to your email. Let me know if any criteria matter more than location."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-10-28 18:50",
+    "sender": "Rohan",
+    "content": "Speed of report turnaround is top. Don't want delays."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-10-29 07:10",
+    "sender": "Rachel",
+    "content": "Rohan, keep today's movement light - 20 min walk + stretches. Avoid loading legs heavily post-travel."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-10-29 07:18",
+    "sender": "Rohan",
+    "content": "Will do. Feels like my legs are still in JFK."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-10-29 15:30",
+    "sender": "Ruby",
+    "content": "Secured your MRI slot at Prenuvo, 4 Nov, 08:30. Sarah confirmed your calendar's updated."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-10-29 15:32",
+    "sender": "Rohan",
+    "content": "Great work. Thanks for moving quick."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-10-30 09:05",
+    "sender": "Advik",
+    "content": "Small anomaly in your sleep score last night (dropped to 76). Any late caffeine?"
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-10-30 09:10",
+    "sender": "Rohan",
+    "content": "Espresso at 5pm… guilty."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-10-30 09:14",
+    "sender": "Advik",
+    "content": "Explains it. Let's keep last caffeine intake before 2pm till we stabilise."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-10-30 14:25",
+    "sender": "Ruby",
+    "content": "Your weekly summary's ready — want me to send here or email?"
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-10-30 14:28",
+    "sender": "Rohan",
+    "content": "Email's better, I'll file it."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-10-31 08:02",
+    "sender": "Carla",
+    "content": "Breakfast idea: avocado + boiled egg on rye. Keeps satiety steady till lunch."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-10-31 08:05",
+    "sender": "Rohan",
+    "content": "On it. Already had the eggs boiled👍"
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-10-31 20:15",
+    "sender": "Ruby",
+    "content": "Reminder: no food or coffee after 20:00 Sunday before MRI. Hydrate well."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-10-31 20:18",
+    "sender": "Rohan",
+    "content": "Got it. Will comply."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-11-01 07:40",
+    "sender": "Rachel",
+    "content": "Easy mobility this morning - open hips, gentle spine twists. Avoid high-intensity."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-11-01 07:45",
+    "sender": "Rohan",
+    "content": "Done. Nice way to start the weekend."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-11-01 12:20",
+    "sender": "Neel",
+    "content": "Looking ahead, this MRI will mark your transition into full longevity planning. Big step."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-11-01 12:25",
+    "sender": "Rohan",
+    "content": "Feels like it. Thanks for steering the ship."
+  }
+]

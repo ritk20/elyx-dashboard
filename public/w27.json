@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2026-01-04 08:15",
+    "sender": "Rohan",
+    "content": "Morning Ruby — just got confirmed for a major keynote on Friday. It's a big one. I want to be at my absolute sharpest. What can the team do?"
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2026-01-04 08:18",
+    "sender": "Ruby",
+    "content": "Congrats on the keynote, Rohan 🎉 I’ll loop Neel in right away. We’ll build this week around getting you in peak shape."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2026-01-04 08:25",
+    "sender": "Neel",
+    "content": "Rohan, this is the exact scenario we’ve been training for. Consider this week the 'Keynote Peak Performance Protocol.' Your only job: follow the plan and focus on content. We’ll handle physiology."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2026-01-04 08:28",
+    "sender": "Rohan",
+    "content": "Perfectly framed, thanks Neel. That’s exactly what I need this week 🙏"
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2026-01-04 11:05",
+    "sender": "Ruby",
+    "content": "Quick reminder: your keto experiment debrief call is scheduled today at 10:30am. Ready to dial in?"
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2026-01-04 11:07",
+    "sender": "Rohan",
+    "content": "Yes, just wrapping up a note. I’ll be on in 5. Let’s do it."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2026-01-04 12:05",
+    "sender": "Ruby",
+    "content": "Great call. Debrief closed ✅ We’ll transition you into carb re-introduction tomorrow morning."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2026-01-05 07:42",
+    "sender": "Advik",
+    "content": "Morning Rohan. Today we start with a 'stress inoculation' drill: 15-min brisk walk to elevate HR, then immediately do a short run-through of your keynote. We’re training your nervous system for calm clarity under stress."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2026-01-05 07:50",
+    "sender": "Rohan",
+    "content": "Got it. Feels a bit unusual but makes sense. Will try after my morning coffee."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2026-01-05 09:12",
+    "sender": "Rohan",
+    "content": "Just did the walk + practice. Bit breathless at first, but after 3-4 mins, my brain felt sharper. Interesting."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2026-01-05 09:20",
+    "sender": "Advik",
+    "content": "Exactly the effect we want 👍 We’ll repeat this again tomorrow for reinforcement."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2026-01-05 12:35",
+    "sender": "Carla",
+    "content": "Hi Rohan — with carb reintroduction today, lunch will include ½ cup quinoa along with your usual grilled salmon and greens. This tests metabolic flexibility gently."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2026-01-05 12:42",
+    "sender": "Rohan",
+    "content": "Thanks Carla. Quinoa’s back in the mix — noted. Let’s see how my focus feels post-lunch."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2026-01-05 18:05",
+    "sender": "Rohan",
+    "content": "Focus remained steady after lunch. No crash. That’s reassuring."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2026-01-05 18:10",
+    "sender": "Carla",
+    "content": "That’s a great sign 👌 We’ll log it and build from here."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2026-01-06 07:35",
+    "sender": "Ruby",
+    "content": "Morning! Quick schedule check: stress inoculation again today + Rachel has 20 min mobility slot at 6pm. Does that still work?"
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2026-01-06 07:39",
+    "sender": "Rohan",
+    "content": "Yes, both work. Will slot them in."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2026-01-06 18:12",
+    "sender": "Rachel",
+    "content": "Good session just now. Keep stretching shoulders twice daily — they tend to tighten when you’re practicing speeches."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2026-01-06 18:20",
+    "sender": "Rohan",
+    "content": "Thanks Rachel, felt the release in traps immediately. Will keep at it."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2026-01-07 08:02",
+    "sender": "Ruby",
+    "content": "Midweek check-in ✔️ Energy levels?"
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2026-01-07 08:10",
+    "sender": "Rohan",
+    "content": "Solid. Sleep was decent, brain’s ticking along. A bit of keynote nerves though."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2026-01-07 08:18",
+    "sender": "Advik",
+    "content": "We’ll address the nerves tomorrow with a new tool. For now, keep routines steady."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2026-01-07 12:40",
+    "sender": "Carla",
+    "content": "Lunch today: chicken breast, greens, and half a roasted sweet potato. Balanced, light, and sustaining for afternoon focus."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2026-01-07 12:43",
+    "sender": "Rohan",
+    "content": "Looks simple and doable. Appreciate the clarity."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2026-01-08 09:00",
+    "sender": "Advik",
+    "content": "Rohan — tomorrow we’ll use a 'just-in-time' tool. I’ve enabled HRV biofeedback in your app. For the final 10 minutes before you go on stage, follow the guided breathing. It will prime your nervous system for calm focus."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2026-01-08 09:08",
+    "sender": "Rohan",
+    "content": "Is that basically box breathing with a real-time data loop? Does it directly target the vagus nerve to modulate fight-or-flight?"
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2026-01-08 09:15",
+    "sender": "Advik",
+    "content": "Exactly. It’s similar to box breathing but adaptive — the app tailors timing to your physiology in the moment. Yes, it stimulates vagal tone, shifting you into parasympathetic dominance."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2026-01-08 09:20",
+    "sender": "Rohan",
+    "content": "Crystal clear. Fascinating that data makes breathing more precise. I’ll try a few runs today."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2026-01-08 19:45",
+    "sender": "Rohan",
+    "content": "Did two short sessions with the HRV biofeedback app this evening. Felt my HR steady out quickly. Could be a useful tool."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2026-01-08 19:50",
+    "sender": "Ruby",
+    "content": "Love that you tested it early 👌 Tomorrow we’ll guide you step-by-step for keynote day."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2026-01-09 07:20",
+    "sender": "Ruby",
+    "content": "Keynote day 🚀 Plan: light mobility at 9am, then follow Carla’s precise pre-speech nutrition. Advik will ping you 30 min before go-time with HRV guidance."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2026-01-09 07:25",
+    "sender": "Rohan",
+    "content": "Thanks Ruby. Feels like mission control here 🙌"
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2026-01-09 09:40",
+    "sender": "Carla",
+    "content": "Pre-speech fuel: grilled chicken + avocado + 30g roasted sweet potato. Balanced glucose bump without crash. Eat ~90 min before stage."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2026-01-09 09:45",
+    "sender": "Rohan",
+    "content": "Perfect timing. I’ll stick to the gram."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2026-01-09 13:30",
+    "sender": "Advik",
+    "content": "30 min to go. Open the app and start HRV biofeedback — 10 mins breathing, then walk calmly to stage. You’ll feel grounded."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2026-01-09 13:32",
+    "sender": "Rohan",
+    "content": "On it. Breathing starts now. Appreciate the steady support, team."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2026-01-09 18:20",
+    "sender": "Rohan",
+    "content": "Keynote was a massive success. Felt sharp, calm, and focused. The pre-speech meal + biofeedback routine made a noticeable difference in confidence and delivery."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2026-01-09 18:28",
+    "sender": "Neel",
+    "content": "Incredible to hear 👏 This is the culmination of months of resilience training. Huge milestone."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2026-01-09 18:30",
+    "sender": "Ruby",
+    "content": "So proud of you, Rohan! You executed perfectly. We’ll capture lessons learned tomorrow so it’s repeatable."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2026-01-10 09:15",
+    "sender": "Rohan",
+    "content": "Appreciate all of you 🙏 This week proved the system works under real pressure. Let’s debrief Monday but for now — thank you."
+  }
+]

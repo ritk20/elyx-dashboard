@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-10-19 07:42",
+    "sender": "Ruby",
+    "content": "Morning Rohan. Just a reminder your mid-quarter blood draw is booked for tomorrow 8:00am at Camden Medical. Nurse will be ready for you - should take under 15 mins."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-10-19 07:55",
+    "sender": "Rohan",
+    "content": "Got it, Ruby. I'll be there on time. Thanks for lining it up."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-10-19 09:13",
+    "sender": "Rachel",
+    "content": "Strength Phase 2 looking solid 💪 This week I've kept Wed light in case work travel pops up again. We'll adjust if needed."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-10-19 09:18",
+    "sender": "Rohan",
+    "content": "Smart move, Rachel. Travel's actually looking likely mid-week..."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-10-19 09:25",
+    "sender": "Ruby",
+    "content": "Thanks for the heads-up—if it firms up, we'll deploy the US Travel Protocol v3.0 so you're fully covered."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-10-20 08:27",
+    "sender": "Rohan",
+    "content": "Blood draw done ✅ Smooth process."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-10-20 08:31",
+    "sender": "Ruby",
+    "content": "Perfect. Lab's already processing. Warren will review results by Wed. I'll share updates as soon as anything comes in."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-10-20 11:04",
+    "sender": "Rohan",
+    "content": "Confirmed. NYC trip Wed night to Sat. High-stakes client meetings."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-10-20 11:10",
+    "sender": "Ruby",
+    "content": "Understood. Team's on it. Expect full travel protocol by tonight - nutrition, light exposure, hotel workouts, all synced."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-10-20 18:22",
+    "sender": "Advik",
+    "content": "Protocol sent. Key point: this trip is a live test of your Q2 KPI - maintaining HRV stability during long-haul stress. Light exposure & meal timing chart attached."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-10-20 18:24",
+    "sender": "Rohan",
+    "content": "Got it. Appreciate the framing, Advik. Makes it feel like a mission."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-10-20 18:30",
+    "sender": "Carla",
+    "content": "Sent you 5 vetted restaurants within walking distance of your hotel - menus lean high-protein, low refined carbs."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-10-20 18:34",
+    "sender": "Rohan",
+    "content": "That's a lifesaver, Carla. I'll stick to the list."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-10-20 18:42",
+    "sender": "Rachel",
+    "content": "You'll have a 20-min hotel room mobility + HIIT session in your app. Works in tight spaces, no equipment needed."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-10-21 07:52",
+    "sender": "Neel",
+    "content": "Morning Rohan. Great to see how quickly the team turned this around. You've now got full resilience coverage for the trip."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-10-21 07:59",
+    "sender": "Rohan",
+    "content": "Yep, feels like nothing falls through the cracks now. Thanks Neel."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-10-22 20:15",
+    "sender": "Rohan",
+    "content": "Boarding now. Meal options on plane look off-plan. What's the least bad choice?"
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-10-22 20:20",
+    "sender": "Carla",
+    "content": "Go for grilled chicken or fish, skip the bread & dessert. Ask for extra salad if they have it. Hydrate steadily, no alcohol."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-10-22 20:23",
+    "sender": "Rohan",
+    "content": "Done. Chicken & greens it is."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-10-23 08:14",
+    "sender": "Rohan",
+    "content": "Thinking about hormesis... would a short cold shower after arrival be a useful stressor to help with jet lag, or just overload?"
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-10-23 08:27",
+    "sender": "Advik",
+    "content": "Nice question. In your case, mild cold exposure (30-60s) after light & movement on arrival can aid circadian reset without tipping recovery load. Avoid if HRV tanks."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-10-23 08:31",
+    "sender": "Rohan",
+    "content": "Got it. Will monitor HRV before trying it."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-10-23 19:44",
+    "sender": "Rohan",
+    "content": "Client dinner tonight runs over my workout slot."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-10-23 19:49",
+    "sender": "Rachel",
+    "content": "No problem - swap to 15-min bodyweight HIIT tomorrow AM before meetings. You'll still get the key adaptation stimulus."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-10-23 19:52",
+    "sender": "Rohan",
+    "content": "Perfect, thanks for flexing it."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-10-24 06:15",
+    "sender": "Rohan",
+    "content": "Workout done before sunrise. It felt really good, not sluggish."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-10-24 06:22",
+    "sender": "Rachel",
+    "content": "Love it. Shows your adaptation's holding even under travel stress."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-10-24 11:03",
+    "sender": "Dr Warren",
+    "content": "Initial lab result: hs-CRP down 40% since July. Excellent systemic improvement. Full ApoB pending."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-10-24 11:06",
+    "sender": "Rohan",
+    "content": "That's motivating. Appreciate the quick share, Warren/"
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-10-24 18:42",
+    "sender": "Ruby",
+    "content": "NYC temps dropping tonight. Pack scarf & gloves for morning walks to avoid extra immune stress."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-10-24 18:45",
+    "sender": "Rohan",
+    "content": "Will do. Already feeling the chill here."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-10-25 07:38",
+    "sender": "Rohan",
+    "content": "Morning HRV steady at 68, no drop despite the travel. Feels like the protocol's working."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-10-25 07:45",
+    "sender": "Advik",
+    "content": "That's exactly the KPI we wanted to prove. Let's hold through the weekend and debrief Monday."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-10-25 11:22",
+    "sender": "Carla",
+    "content": "If you grab lunch out, opt for lean protein + veg, skip creamy sauces. Keeps energy stable for afternoon sessions."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-10-25 11:25",
+    "sender": "Rohan",
+    "content": "Copy that. Grilled salmon & steamed veg ordered."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-10-25 17:58",
+    "sender": "Ruby",
+    "content": "Flight back tomorrow. Shall I arrange light compression socks & hydration pack in your seat?"
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-10-25 18:04",
+    "sender": "Rohan",
+    "content": "Yes please. Helps a ton on the return leg."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-10-25 20:12",
+    "sender": "Neel",
+    "content": "You've handled this week like a pro - key markers held, no major drops. Shows we're building real resilience."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-10-25 20:17",
+    "sender": "Rohan",
+    "content": "Feels that way on my end too. Big thanks to the whole team."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-10-25 20:20",
+    "sender": "Ruby",
+    "content": "Safe flight back, Rohan. We'll have a quick post-trip debrief Monday to lock in the wins."
+  }
+]

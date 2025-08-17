@@ -1,0 +1,236 @@
+[
+  {
+    "id": "msg_041",
+    "timestamp": "2025-07-14 07:15",
+    "sender": "Ruby",
+    "content": "Morning Rohan - VO₂ Max test is confirmed for 8:00 at Singapore Sports Institute. Sarah has your slot and check-in instructions."
+  },
+  {
+    "id": "msg_042",
+    "timestamp": "2025-07-14 07:17",
+    "sender": "Rohan",
+    "content": "On my way. Should be quick, right?"
+  },
+  {
+    "id": "msg_043",
+    "timestamp": "2025-07-14 07:18",
+    "sender": "Ruby",
+    "content": "About 30 mins total. You'll get real-time feedback during the session."
+  },
+  {
+    "id": "msg_044",
+    "timestamp": "2025-07-14 09:10",
+    "sender": "Ruby",
+    "content": "Test complete. The technician said you gave a solid effort. Results will be uploaded by this afternoon."
+  },
+  {
+    "id": "msg_045",
+    "timestamp": "2025-07-14 09:12",
+    "sender": "Rohan",
+    "content": "Felt tougher than expected. Curious to see the numbers."
+  },
+  {
+    "id": "msg_046",
+    "timestamp": "2025-07-14 15:20",
+    "sender": "Dr Warren",
+    "content": "Rohan - here's your baseline summary: ApoB mildly elevated; VO₂ Max is 42 (above average for age). BP and inflammation markers are good. Focus areas: lipid optimization and slightly better aerobic conditioning."
+  },
+  {
+    "id": "msg_047",
+    "timestamp": "2025-07-14 15:23",
+    "sender": "Rohan",
+    "content": "Clear. Let's see if VO₂ can be nudged up without adding huge time blocks."
+  },
+  {
+    "id": "msg_048",
+    "timestamp": "2025-07-14 15:25",
+    "sender": "Dr Warren",
+    "content": "Agreed. We'll work those in with minimal disruption."
+  },
+  {
+    "id": "msg_049",
+    "timestamp": "2025-07-14 18:45",
+    "sender": "Advik",
+    "content": "Got 5 nights of Oura data - avg HRV 45 ms, sleep latency ~28 mins. Goal for next 90 days: HRV up to 55+, latency under 20 mins."
+  },
+  {
+    "id": "msg_050",
+    "timestamp": "2025-07-14 18:48",
+    "sender": "Rohan",
+    "content": "Interesting… I didn't realise latency was that long. Feels shorter."
+  },
+  {
+    "id": "msg_051",
+    "timestamp": "2025-07-14 18:50",
+    "sender": "Advik",
+    "content": "Common. You're probably drifting but not yet in deep sleep. We'll tackle it."
+  },
+  {
+    "id": "msg_052",
+    "timestamp": "2025-07-15 07:05",
+    "sender": "Carla",
+    "content": "Rohan - easy quick win: Magnesium glycinate, 300-400 mg, 30 mins before bed. Can reduce latency and improve deep sleep. Safe for travel use."
+  },
+  {
+    "id": "msg_053",
+    "timestamp": "2025-07-15 07:07",
+    "sender": "Rohan",
+    "content": "Sounds simple. I'll try it."
+  },
+  {
+    "id": "msg_054",
+    "timestamp": "2025-07-15 07:08",
+    "sender": "Ruby",
+    "content": "I'll have Sarah stock your travel kit with it before Seoul."
+  },
+  {
+    "id": "msg_055",
+    "timestamp": "2025-07-15 10:40",
+    "sender": "Rachel",
+    "content": "Hi Rohan. I lead your movement pillar. After Seoul, can we do a short virtual to check your form on a few key exercises?"
+  },
+  {
+    "id": "msg_056",
+    "timestamp": "2025-07-15 10:43",
+    "sender": "Rohan",
+    "content": "Sure. Keep it short though. Mornings are best."
+  },
+  {
+    "id": "msg_057",
+    "timestamp": "2025-07-15 15:15",
+    "sender": "Rohan",
+    "content": "Hey Ruby, just got my travel extened to Sunday. Clashes with the DEXA scan. Can you shift it?"
+  },
+  {
+    "id": "msg_058",
+    "timestamp": "2025-07-15 15:18",
+    "sender": "Ruby",
+    "content": "No problem. I'll handle it with Sarah and send you a new slot."
+  },
+  {
+    "id": "msg_059",
+    "timestamp": "2025-07-15 15:45",
+    "sender": "Ruby",
+    "content": "DEXA moved to 22nd July, 11:00 AM. Fits between your calls that day."
+  },
+  {
+    "id": "msg_060",
+    "timestamp": "2025-07-15 15:47",
+    "sender": "Rohan",
+    "content": "Perfect. Thanks for sorting that so fast."
+  },
+  {
+    "id": "msg_061",
+    "timestamp": "2025-07-15 17:30",
+    "sender": "Ruby",
+    "content": "Also, your Seoul plan's ready. Rachel adapted it for the hotel gym and limited time slots."
+  },
+  {
+    "id": "msg_062",
+    "timestamp": "2025-07-15 17:35",
+    "sender": "Rohan",
+    "content": "Got it. I'll review on the flight."
+  },
+  {
+    "id": "msg_063",
+    "timestamp": "2025-07-16 08:00",
+    "sender": "Ruby",
+    "content": "Safe travels today. I've sent the portable kit and supplement pack to your office for pickup."
+  },
+  {
+    "id": "msg_064",
+    "timestamp": "2025-07-16 08:05",
+    "sender": "Rohan",
+    "content": "Thanks Ruby - boarding now. Will test the magnesium tonight."
+  },
+  {
+    "id": "msg_065",
+    "timestamp": "2025-07-16 22:20",
+    "sender": "Rohan",
+    "content": "(Seoul time) Took the magnesium - feel calmer already."
+  },
+  {
+    "id": "msg_066",
+    "timestamp": "2025-07-17 06:45",
+    "sender": "Ruby",
+    "content": "Great to hear! Watch Oura's latency score over the week. Let's see if it trends down."
+  },
+  {
+    "id": "msg_067",
+    "timestamp": "2025-07-17 06:50",
+    "sender": "Rohan",
+    "content": "Will do. Hotel gym's small but functional."
+  },
+  {
+    "id": "msg_068",
+    "timestamp": "2025-07-17 06:52",
+    "sender": "Ruby",
+    "content": "Rachel's plan should fit perfectly there. Focus on consistency over volume while traveling."
+  },
+  {
+    "id": "msg_069",
+    "timestamp": "2025-07-18 07:30",
+    "sender": "Advik",
+    "content": "Two nights with magnesium - latency dropped to 18 mins, HRV nudged to 47 ms. Early but promising."
+  },
+  {
+    "id": "msg_070",
+    "timestamp": "2025-07-18 07:32",
+    "sender": "Rohan",
+    "content": "Nice. That's faster than I expected."
+  },
+  {
+    "id": "msg_071",
+    "timestamp": "2025-07-18 07:35",
+    "sender": "Advik",
+    "content": "Yep. small tweaks, measurable results. Exactly what we want."
+  },
+  {
+    "id": "msg_072",
+    "timestamp": "2025-07-18 21:10",
+    "sender": "Ruby",
+    "content": "All set for your return Sunday? I'll have Monday morning blocked for admin catch-up."
+  },
+  {
+    "id": "msg_073",
+    "timestamp": "2025-07-18 21:12",
+    "sender": "Rohan",
+    "content": "Yes, landing late Sunday. Monday 9 works."
+  },
+  {
+    "id": "msg_074",
+    "timestamp": "2025-07-19 08:50",
+    "sender": "Rachel",
+    "content": "When you're back, we'll lock that 15-min movement baseline call. I'll work with Sarah on timing."
+  },
+  {
+    "id": "msg_075",
+    "timestamp": "2025-07-19 08:52",
+    "sender": "Rohan",
+    "content": "Alright. Let's aim for mid-week or after the DEXA scan?"
+  },
+  {
+    "id": "msg_076",
+    "timestamp": "2025-07-19 09:00",
+    "sender": "Rachel",
+    "content": "Confirmed with Sarah - we'll schedule your movement baseline call after the DEXA scan."
+  },
+  {
+    "id": "msg_077",
+    "timestamp": "2025-07-20 09:15",
+    "sender": "Ruby",
+    "content": "Week recap: VO₂ and baseline complete, magnesium trial successful, DEXA rescheduled. Nice progress despite travel 👍"
+  },
+  {
+    "id": "msg_077",
+    "timestamp": "2025-07-20 09:18",
+    "sender": "Rohan",
+    "content": "Feels productive. Appreciate how smooth everything's been."
+  },
+  {
+    "id": "msg_078",
+    "timestamp": "2025-07-20 09:20",
+    "sender": "Ruby",
+    "content": "That's the goal! Glad to hear it!"
+  }
+]

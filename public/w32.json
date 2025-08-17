@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2026-02-10 08:05",
+    "sender": "Neel",
+    "content": "Good morning Rohan — as we enter week 32, I’d like to frame this as the 8-month journey review. We’ll map your progress directly against the three original goals and show ROI of your efforts. Ruby will keep logistics smooth."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2026-02-10 08:21",
+    "sender": "Rohan",
+    "content": "Thanks Neel, appreciate the big picture view. Makes sense to anchor everything back to those original goals 🙏"
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2026-02-10 10:45",
+    "sender": "Ruby",
+    "content": "Rohan, just confirming — you’ve got Dr. Alice Chen today at 2pm SGT. I’ve already shared your background notes with her so you can dive right in."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2026-02-10 10:52",
+    "sender": "Rohan",
+    "content": "Perfect Ruby, that saves me time. I’ll head there straight after my client call."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2026-02-10 19:12",
+    "sender": "Rohan",
+    "content": "Session with Dr. Chen went well. She’s structured but empathetic — feels like the right fit. Curious how we’ll tie this back to data."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2026-02-10 20:03",
+    "sender": "Advik",
+    "content": "That’s great to hear. As you begin sessions, we can correlate your feedback with real-time HRV. This way, we’ll see how discussing certain stressors impacts your nervous system. A live biofeedback loop of sorts."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2026-02-10 20:15",
+    "sender": "Rohan",
+    "content": "So the daytime HRV monitor can literally measure the physiological impact of a therapy session? Like, we’d see if a breathing technique Dr. Chen teaches is effective at calming my system?"
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2026-02-10 20:22",
+    "sender": "Advik",
+    "content": "Exactly. We’ll spot if HRV stabilizes faster after specific techniques. Over time, you’ll know which strategies give the strongest down-regulation effect. Evidence-based resilience training."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2026-02-11 07:40",
+    "sender": "Ruby",
+    "content": "Morning Rohan 🌤️ Just a quick nudge: 20-min movement today. Rachel suggests a mobility warm-up before your jog to offset yesterday’s desk hours."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2026-02-11 07:56",
+    "sender": "Rohan",
+    "content": "Got it, I’ll do 15 jog + 5 stretch before the first call. Thanks."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2026-02-11 09:14",
+    "sender": "Rachel",
+    "content": "👍 That combo’s perfect. Keep the jog conversational pace. The mobility focus today should help loosen lower back tension you mentioned."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2026-02-11 18:32",
+    "sender": "Carla",
+    "content": "Rohan, wanted to share a before/after: since your first CGM 8 months ago, glycemic variability has dropped by 54%. This is a powerful leading indicator for long-term cardiovascular health."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2026-02-11 18:46",
+    "sender": "Rohan",
+    "content": "Wow — more than half. That’s motivating. Appreciate you putting the number in context Carla."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2026-02-12 08:09",
+    "sender": "Advik",
+    "content": "Sharing a visual: HRV month 1 vs last month. Average is up 25%, but more impressive is your bounce-back time after travel — cut almost in half. That’s resilience in action."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2026-02-12 08:25",
+    "sender": "Rohan",
+    "content": "That’s the clearest chart yet. I remember how wiped I felt after London trip last year — night and day difference now."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2026-02-12 09:02",
+    "sender": "Neel",
+    "content": "Exactly the kind of ROI we wanted to quantify. These resilience gains tie back directly to your career longevity goal."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2026-02-12 20:51",
+    "sender": "Ruby",
+    "content": "Reminder: diagnostic panel incl. APOE4 test is locked for Feb 15, Sat morning at Gleneagles. Fasting required, I’ll arrange transport if needed."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2026-02-12 21:00",
+    "sender": "Rohan",
+    "content": "I’ll fast, no worries. Sarah will handle transport — thanks for locking it in."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2026-02-13 07:22",
+    "sender": "Ruby",
+    "content": "Quick check Rohan — you mentioned a late dinner with clients. Want me to adjust your nutrition plan for today to keep it light until then?"
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2026-02-13 07:35",
+    "sender": "Rohan",
+    "content": "Yes please, lighter breakfast/lunch will help balance the evening."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2026-02-13 08:01",
+    "sender": "Carla",
+    "content": "Then today: breakfast smoothie + simple salad lunch. Keep protein high. This way, the client dinner won’t spike overall calories."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2026-02-13 08:12",
+    "sender": "Rohan",
+    "content": "Works for me. I’ll tell cook to adjust portions."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2026-02-13 19:45",
+    "sender": "Ruby",
+    "content": "All good for diagnostics tomorrow? Just wanted to reconfirm your calendar."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2026-02-13 20:00",
+    "sender": "Rohan",
+    "content": "Yes Ruby, I’m set. Appreciate the reminder."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2026-02-14 09:12",
+    "sender": "Carla",
+    "content": "Rohan, one more step: let’s close the loop on your nutrition experiment. I recommend a gut microbiome re-test — we took baseline before keto, now we’ll see how your bacteria shifted."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2026-02-14 09:25",
+    "sender": "Rohan",
+    "content": "Makes sense. If it can be bundled into Sat’s diagnostics, even better."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2026-02-14 09:40",
+    "sender": "Ruby",
+    "content": "Already arranged 🙂 Kit will be couriered tonight, you can complete at home and bring along tomorrow. Zero extra appointments needed."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2026-02-14 09:51",
+    "sender": "Rohan",
+    "content": "That’s frictionless Ruby. Thanks for anticipating."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2026-02-14 20:18",
+    "sender": "Dr Warren",
+    "content": "Rohan, just to brief you: the APOE4 test tomorrow will clarify genetic cardiovascular risk. Regardless of result, we’ll integrate findings into your personalized strategy."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2026-02-14 20:32",
+    "sender": "Rohan",
+    "content": "Appreciate the clear framing Warren. Good to know how it slots into the bigger picture."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2026-02-15 07:18",
+    "sender": "Ruby",
+    "content": "Morning Rohan 🌅 Remember — fasting until after the blood draw. Your slot’s at 9am, lab is pre-alerted."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2026-02-15 07:24",
+    "sender": "Rohan",
+    "content": "All good. Heading over soon."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2026-02-15 12:15",
+    "sender": "Ruby",
+    "content": "Diagnostics complete ✅ Results in 3–4 days. I’ll consolidate and circulate once Warren and Advik interpret."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2026-02-15 12:27",
+    "sender": "Rohan",
+    "content": "Smooth process. Thanks Ruby."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2026-02-15 18:55",
+    "sender": "Advik",
+    "content": "Pulled your HRV snapshot from today — even with fasting and early wake, your baseline held strong. Shows improved metabolic stability."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2026-02-15 19:05",
+    "sender": "Rohan",
+    "content": "That’s encouraging. Used to feel shaky during fasts — not anymore."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2026-02-16 08:10",
+    "sender": "Neel",
+    "content": "Next step: we’ll package all these before/after visuals and key results into your formal 8-month review deck. This becomes your ‘Peak Performance Playbook v2.’"
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2026-02-16 08:26",
+    "sender": "Rohan",
+    "content": "Great — a clean synthesis would be valuable. Looking forward to seeing the side-by-side journey."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2026-02-16 17:40",
+    "sender": "Ruby",
+    "content": "Also syncing with Sarah to schedule your psychologist follow-ups. Would you prefer weekly for the first month or bi-weekly?"
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2026-02-16 17:52",
+    "sender": "Rohan",
+    "content": "Weekly to start, then we’ll reassess. Thanks Ruby."
+  }
+]

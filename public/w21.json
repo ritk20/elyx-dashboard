@@ -1,0 +1,218 @@
+[
+  {
+    "id": "msg_2101",
+    "timestamp": "2025-11-24 08:12",
+    "sender": "Ruby",
+    "content": "Morning Rohan. Just confirming tomorrow's mobile phlebotomist will arrive at your office at 9:00am sharp. All paperwork and kits are ready, nothing you need to prepare."
+  },
+  {
+    "id": "msg_2102",
+    "timestamp": "2025-11-24 08:18",
+    "sender": "Rohan",
+    "content": "Perfect, thanks Ruby. Keeping it simple helps a lot."
+  },
+  {
+    "id": "msg_2103",
+    "timestamp": "2025-11-24 12:44",
+    "sender": "Neel",
+    "content": "Rohan, this week is a milestone. Your 6-month diagnostics mark the second big checkpoint. Proud of how consistently you've kept to the steady state these past weeks."
+  },
+  {
+    "id": "msg_2104",
+    "timestamp": "2025-11-24 12:50",
+    "sender": "Rohan",
+    "content": "Thanks Neel. Honestly feels smoother now that I see how nutrition/sleep/cognition link up. Feels like less firefighting."
+  },
+  {
+    "id": "msg_2105",
+    "timestamp": "2025-11-25 09:32",
+    "sender": "Ruby",
+    "content": "Blood draw all done ✅ Phlebotomist just left your office. Samples are already couriered to the lab on cold chain."
+  },
+  {
+    "id": "msg_2106",
+    "timestamp": "2025-11-25 09:34",
+    "sender": "Rohan",
+    "content": "Smoothest one yet. Barely noticed it, appreciate the coordination 🙏"
+  },
+  {
+    "id": "msg_2107",
+    "timestamp": "2025-11-25 10:21",
+    "sender": "Ruby",
+    "content": "I’ll connect with Sarah this afternoon to slot in your VO₂ Max test and DEXA for next week. Those complete the 6-month panel picture."
+  },
+  {
+    "id": "msg_2108",
+    "timestamp": "2025-11-25 14:07",
+    "sender": "Ruby",
+    "content": "Just spoke with Sarah — tentative hold for VO₂ Max on Wed morning and DEXA Thursday afternoon next week. She’ll block those in your diary."
+  },
+  {
+    "id": "msg_2109",
+    "timestamp": "2025-11-25 14:12",
+    "sender": "Rohan",
+    "content": "Great, thanks for locking those in. Having them back-to-back makes sense."
+  },
+  {
+    "id": "msg_2110",
+    "timestamp": "2025-11-25 18:40",
+    "sender": "Dr Warren",
+    "content": "Rohan, as results start to come in, remember we’re watching trends, not chasing perfection. Each panel is a data point on your multi-year trajectory."
+  },
+  {
+    "id": "msg_2111",
+    "timestamp": "2025-11-25 18:46",
+    "sender": "Rohan",
+    "content": "That framing helps. Keeps me from obsessing over one number."
+  },
+  {
+    "id": "msg_2112",
+    "timestamp": "2025-11-26 07:51",
+    "sender": "Rohan",
+    "content": "Quick Q, Warren. I’ve been reading about Lp(a). My last test was high-normal. Should we be tracking it more aggressively?"
+  },
+  {
+    "id": "msg_2113",
+    "timestamp": "2025-11-26 08:12",
+    "sender": "Dr Warren",
+    "content": "Good catch. Lp(a) is genetically driven — lifestyle doesn’t shift it much. What matters is trend + interaction with other risk factors. Yes, we’ll include it this round and keep it on your permanent panel."
+  },
+  {
+    "id": "msg_2114",
+    "timestamp": "2025-11-26 08:18",
+    "sender": "Rohan",
+    "content": "Got it. Makes sense to keep it as a marker in the background then."
+  },
+  {
+    "id": "msg_2115",
+    "timestamp": "2025-11-26 13:05",
+    "sender": "Dr Warren",
+    "content": "With your CAC score of 0 and MRI baseline, the next frontier is molecular. I recommend we add a liquid biopsy this cycle — it screens for circulating DNA signals from early cancers."
+  },
+  {
+    "id": "msg_2116",
+    "timestamp": "2025-11-26 13:18",
+    "sender": "Rohan",
+    "content": "So if MRI is the hardware scan and CAC is plumbing, this biopsy is like a software scan — catching corrupted code early? Doing it now gives me a clean baseline?"
+  },
+  {
+    "id": "msg_2117",
+    "timestamp": "2025-11-26 13:23",
+    "sender": "Dr Warren",
+    "content": "Exactly 👌 That’s a perfect analogy. Establishing this baseline now lets us compare over time and gives you another layer of surveillance."
+  },
+  {
+    "id": "msg_2118",
+    "timestamp": "2025-11-26 13:44",
+    "sender": "Rohan",
+    "content": "Then let’s do it. No reason to wait if it strengthens the net."
+  },
+  {
+    "id": "msg_2119",
+    "timestamp": "2025-11-26 14:05",
+    "sender": "Ruby",
+    "content": "Already checked — the lab can run the liquid biopsy from yesterday’s blood draw. No extra appointment needed ✅"
+  },
+  {
+    "id": "msg_2120",
+    "timestamp": "2025-11-26 14:10",
+    "sender": "Rohan",
+    "content": "Brilliant. That’s exactly the kind of frictionless add-on I appreciate."
+  },
+  {
+    "id": "msg_2121",
+    "timestamp": "2025-11-27 07:32",
+    "sender": "Advik",
+    "content": "Rohan, your Garmin feed shows your HRV and resting HR stayed very stable leading into the draw. That’s the steady state we wanted — great adherence 👏"
+  },
+  {
+    "id": "msg_2122",
+    "timestamp": "2025-11-27 07:41",
+    "sender": "Rohan",
+    "content": "Nice. Honestly felt calmer too — probably thanks to sleep tightening up."
+  },
+  {
+    "id": "msg_2123",
+    "timestamp": "2025-11-27 10:55",
+    "sender": "Carla",
+    "content": "Noticed you logged less red meat last week. That tweak keeps your lipid profile lean for the panel. Small but compounding effect 👍"
+  },
+  {
+    "id": "msg_2124",
+    "timestamp": "2025-11-27 11:02",
+    "sender": "Rohan",
+    "content": "Yeah, switched a couple of lunches to fish. Was easier than I thought."
+  },
+  {
+    "id": "msg_2125",
+    "timestamp": "2025-11-27 16:20",
+    "sender": "Rachel",
+    "content": "Quick reminder: keep some light mobility work going this week. Nothing heavy until after VO₂ Max — we want clean baselines for performance too."
+  },
+  {
+    "id": "msg_2126",
+    "timestamp": "2025-11-27 16:25",
+    "sender": "Rohan",
+    "content": "Copy that. Sticking to stretching and a walk this evening."
+  },
+  {
+    "id": "msg_2127",
+    "timestamp": "2025-11-28 09:48",
+    "sender": "Ruby",
+    "content": "Lab confirmed receipt of all samples, including liquid biopsy. Turnaround is 5–7 days. I’ll update once we have rolling results."
+  },
+  {
+    "id": "msg_2128",
+    "timestamp": "2025-11-28 09:53",
+    "sender": "Rohan",
+    "content": "Thanks — good to know everything landed safely."
+  },
+  {
+    "id": "msg_2129",
+    "timestamp": "2025-11-28 14:22",
+    "sender": "Dr Warren",
+    "content": "We’ll stage-release results as they’re ready. I suggest we review the lipid, inflammation, and glucose clusters first — those tell us immediate progress since Q1."
+  },
+  {
+    "id": "msg_2130",
+    "timestamp": "2025-11-28 14:28",
+    "sender": "Rohan",
+    "content": "Makes sense. Start with the biggest levers first."
+  },
+  {
+    "id": "msg_2131",
+    "timestamp": "2025-11-28 18:15",
+    "sender": "Ruby",
+    "content": "Sarah and I also penciled in a full debrief slot with Warren for Dec 5th, right after your DEXA. Calendar invite coming your way."
+  },
+  {
+    "id": "msg_2132",
+    "timestamp": "2025-11-28 18:20",
+    "sender": "Rohan",
+    "content": "Good planning. That timing’s perfect."
+  },
+  {
+    "id": "msg_2133",
+    "timestamp": "2025-11-29 08:02",
+    "sender": "Neel",
+    "content": "Rohan, stepping back — 6 months in, you’ve stacked CAC=0, MRI, and now liquid biopsy. That’s three dimensions of assurance very few executives ever build."
+  },
+  {
+    "id": "msg_2134",
+    "timestamp": "2025-11-29 08:08",
+    "sender": "Rohan",
+    "content": "Hearing it stacked like that really hits. Feels like the foundations are in place now."
+  },
+  {
+    "id": "msg_2135",
+    "timestamp": "2025-11-29 11:35",
+    "sender": "Ruby",
+    "content": "Exactly — and from here it’s about rhythm, not sprints. We’ll keep everything light until VO₂ Max/Dexa next week. I’ll send your Monday brief as usual."
+  },
+  {
+    "id": "msg_2136",
+    "timestamp": "2025-11-29 11:40",
+    "sender": "Rohan",
+    "content": "Sounds good Ruby. Appreciate how tightly this was run this week 👌"
+  }
+]

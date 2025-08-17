@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2026-02-03 08:15",
+    "sender": "Neel",
+    "content": "Rohan, attached is v1.0 of your personal Peak Performance Playbook. It captures the nutrition, stress prep, and biofeedback routines that worked for your keynote. This is now a permanent asset in your toolkit 💼."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2026-02-03 08:23",
+    "sender": "Rohan",
+    "content": "Great timing, Neel. I’ll read it later today—keen to lock this in as a repeatable system."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2026-02-03 10:05",
+    "sender": "Ruby",
+    "content": "Morning Rohan ☀️ Just confirming—Sarah has locked in your first consultation with Dr. Alice Chen (clinical psychologist) for Feb 10, 2pm SGT. Calendar invite already sent."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2026-02-03 10:12",
+    "sender": "Rohan",
+    "content": "Got it, thanks Ruby. Appreciate the smooth coordination 🙏"
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2026-02-03 14:50",
+    "sender": "Advik",
+    "content": "Rohan, to support Dr. Chen’s work, I recommend trialing a continuous daytime HRV monitor. It'll show us how specific meetings/tasks impact your nervous system. That way, we can fine-tune stress resilience strategies."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2026-02-03 15:05",
+    "sender": "Rohan",
+    "content": "So Oura gives me the overnight 'recharge' score, while this new monitor would show the real-time 'drain' during the day? Almost like battery management?"
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2026-02-03 15:11",
+    "sender": "Advik",
+    "content": "Exactly 👌 Perfect analogy—Oura = how well you recharge, daytime HRV monitor = how fast you’re draining. Together, we’ll see the full energy system."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2026-02-03 18:45",
+    "sender": "Ruby",
+    "content": "I’ll arrange the HRV monitor delivery this week. Sarah will receive setup instructions too. You won’t need to do anything extra."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2026-02-03 19:10",
+    "sender": "Rohan",
+    "content": "Perfect, thanks Ruby. Seamless as always."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2026-02-04 07:25",
+    "sender": "Rachel",
+    "content": "How did the fasted cardio feel yesterday, Rohan? Any dizziness or fatigue after 25 mins? Just want to calibrate intensity."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2026-02-04 07:40",
+    "sender": "Rohan",
+    "content": "Actually felt solid, Rachel. A bit lightheaded at the 20-min mark but recovered quickly after hydrating."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2026-02-04 07:55",
+    "sender": "Rachel",
+    "content": "👍 That’s expected. Let’s cap it at 20 min for now, gradually nudging up once we see better tolerance."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2026-02-04 09:10",
+    "sender": "Carla",
+    "content": "Quick note, Rohan—the carb reintroduction is looking very smooth. No major glucose spikes logged by Sarah’s meal pics. Your system’s adapting well."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2026-02-04 09:18",
+    "sender": "Rohan",
+    "content": "Good to hear. I actually felt sharper in the morning meetings after the rice last night."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2026-02-04 12:45",
+    "sender": "Neel",
+    "content": "That’s exactly why the Playbook includes carb cycling around big events—energy + focus without crashes. It’s now a system, not a gamble."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2026-02-04 18:20",
+    "sender": "Ruby",
+    "content": "Reminder: diagnostic panel scheduled for Feb 17. Sarah’s already synced travel dates so you’ll be in Singapore. Nothing needed from you right now ✅"
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2026-02-04 18:27",
+    "sender": "Rohan",
+    "content": "Nice, thanks Ruby. Keeping this off my plate is huge."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2026-02-05 08:10",
+    "sender": "Dr Warren",
+    "content": "Rohan, as part of your Feb diagnostic, I recommend we include APOE4 genetic testing. It provides insights into long-term heart and Alzheimer’s risk. A single blood draw can cover it."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2026-02-05 08:25",
+    "sender": "Rohan",
+    "content": "Makes sense, Dr. Warren. If it helps us see my long-term risk profile, let’s do it."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2026-02-05 08:40",
+    "sender": "Ruby",
+    "content": "Noted ✅ I’ll add APOE4 to your Feb 17 requisition. No extra appointments needed."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2026-02-05 12:00",
+    "sender": "Advik",
+    "content": "Side note: the new HRV monitor will help us tag specific meetings as stress triggers. Over time, we’ll build a personal 'stress fingerprint'."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2026-02-05 12:12",
+    "sender": "Rohan",
+    "content": "Got it. That kind of mapping feels very actionable. Looking forward to testing it."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2026-02-05 19:45",
+    "sender": "Carla",
+    "content": "Cook shared tonight’s meal pic—balanced, portion spot on. Small tweak: swap the sauce to olive oil + lemon instead of cream to keep lipids lower."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2026-02-05 20:02",
+    "sender": "Rohan",
+    "content": "Noted. I actually prefer the olive oil version anyway 👍"
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2026-02-06 07:05",
+    "sender": "Rachel",
+    "content": "Quick check—how’s your energy this week with the 20-min morning sessions + carbs back in?"
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2026-02-06 07:18",
+    "sender": "Rohan",
+    "content": "Feels balanced. Not dragging like before. Even recovery after late calls is quicker."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2026-02-06 07:25",
+    "sender": "Rachel",
+    "content": "That’s a win ✅ Let’s hold steady on this routine until the Feb panel."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2026-02-06 09:30",
+    "sender": "Neel",
+    "content": "Rohan, I see a good opportunity—once we map your stress fingerprint, we can extend the Playbook to 'Board Meeting Protocols'. Would that be useful?"
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2026-02-06 09:42",
+    "sender": "Rohan",
+    "content": "Yes, absolutely. Board weeks are where I need max sharpness. Let’s plan for that."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2026-02-06 13:55",
+    "sender": "Ruby",
+    "content": "Just a heads up—HRV monitor will be delivered tomorrow. Sarah will set it aside for your Monday start."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2026-02-07 08:40",
+    "sender": "Advik",
+    "content": "Once the monitor’s on, you’ll see live feedback during calls. I’ll share a quick 'how-to' video with Sarah for setup."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2026-02-07 09:00",
+    "sender": "Rohan",
+    "content": "Good. Keep it dummy-proof—I don’t have bandwidth to fiddle with tech."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2026-02-07 09:08",
+    "sender": "Advik",
+    "content": "Understood 👍 One button on/off. Sarah can handle the rest."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2026-02-07 19:50",
+    "sender": "Carla",
+    "content": "Cook shared lunch logs—looks consistent. Just suggest adding a fermented food twice a week (kimchi or miso) to boost gut diversity."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2026-02-07 20:05",
+    "sender": "Rohan",
+    "content": "Noted, Carla. Kimchi’s easy for me—I’ll ask cook to add it."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2026-02-08 07:45",
+    "sender": "Ruby",
+    "content": "Morning! Just confirming you’re set for next week: Feb 10 Dr. Chen, Feb 17 diagnostics. No action needed from your side ✅"
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2026-02-08 07:55",
+    "sender": "Rohan",
+    "content": "Thanks Ruby, that’s perfect. Appreciate the clear updates."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2026-02-08 18:25",
+    "sender": "Dr Warren",
+    "content": "Rohan, note on APOE4: regardless of outcome, we’ll focus on lifestyle first. Genes guide risk, but environment drives expression. Nothing to worry about—just better data."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2026-02-08 18:40",
+    "sender": "Rohan",
+    "content": "Understood, Dr. Warren. Data without panic—that’s what I need."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2026-02-09 08:30",
+    "sender": "Neel",
+    "content": "Team consolidation note: Playbook delivered, Dr. Chen confirmed, diagnostics ready, HRV monitor live tomorrow. We’ve now systemized both physical and psychological pillars."
+  }
+]

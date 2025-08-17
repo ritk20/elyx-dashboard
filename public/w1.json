@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-07-07 08:15",
+    "sender": "Neel",
+    "content": "Morning Rohan - welcome aboard. Excited to start this journey with you. Think of us as your health strategy team. We'll keep your 3 goals front and centre: heart health, cognitive performance, proactive screening."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-07-07 08:18",
+    "sender": "Rohan",
+    "content": "Morning Neel, sounds great👍 I'm on board as long as we keep things efficient and data-backed."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-07-07 08:20",
+    "sender": "Neel",
+    "content": "Exactly. We'll run this like a performance project — measurable inputs, clear outputs. Ruby will take over day-to-day coordination so you don't have to chase anything."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-07-07 08:25",
+    "sender": "Ruby",
+    "content": "Hi Rohan! I'm Ruby - I'll be your main point for everything. Could you share Sarah's contact? I'll loop her in so we handle all scheduling/logistics directly."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-07-07 08:27",
+    "sender": "Rohan",
+    "content": "Hi Ruby, great to meet you. Sarah's number is +65 XXXX XXXX, email sarah.tan@***. Please coordinate directly with her."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-07-07 08:30",
+    "sender": "Ruby",
+    "content": "Got it - thanks Rohan. I'll send Sarah the onboarding list today so you can focus on work."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-07-07 14:10",
+    "sender": "Dr Warren",
+    "content": "Rohan, quick note on the baseline blood panel - we're including ApoB and Lp(a). These are strong predictors of heart disease risk, particularly relevant given your family history."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-07-07 14:12",
+    "sender": "Rohan",
+    "content": "Makes sense, I've read ApoB is more predictive than LDL. Good to know we're covering it."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-07-07 14:15",
+    "sender": "Dr Warren",
+    "content": "Exactly. LDL tells part of the story, but ApoB measures the actual particle count. Lower particles = lower risk."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-07-07 17:50",
+    "sender": "Ruby",
+    "content": "Lab appointment booked for Wed 9:00 AM at Raffles Medical, Raffles Place. Sarah has the details."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-07-07 18:05",
+    "sender": "Rohan",
+    "content": "Perfect. I'll be there."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-07-08 07:40",
+    "sender": "Advik",
+    "content": "Morning Rohan - your Garmin is great for workouts, but I recommend adding an Oura ring. It'll capture HRV and sleep data with high resolution. Useful before lab results come in."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-07-08 07:42",
+    "sender": "Rohan",
+    "content": "I've heard mixed reviews on Oura's accuracy. Worth it?"
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-07-08 07:45",
+    "sender": "Advik",
+    "content": "For trends, yes. It's not perfect minute-to-minute, but very solid for nightly HRV, sleep staging, and recovery readiness."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-07-08 10:10",
+    "sender": "Ruby",
+    "content": "I can order the Oura today for delivery this week. Black, silver, or stealth?"
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-07-08 10:12",
+    "sender": "Rohan",
+    "content": "Stealth, size 11. Thanks."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-07-08 10:15",
+    "sender": "Ruby",
+    "content": "Done✅ Delivery Friday."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-07-08 14:30",
+    "sender": "Carla",
+    "content": "Hi Rohan — I've emailed your cook a simple photo-log protocol for all your meals this week. No need for you to track manually."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-07-08 14:35",
+    "sender": "Rohan",
+    "content": "Appreciated. This really takes the load off."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-07-09 09:45",
+    "sender": "Ruby",
+    "content": "Labs done✅ Results will be in by Friday. Dr Warren will review first."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-07-09 09:50",
+    "sender": "Rohan",
+    "content": "Quick question - what's your take on biological age tests? Are they legit?"
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-07-09 10:05",
+    "sender": "Dr Warren",
+    "content": "They vary. DNA methylation tests are most validated. Others, like blood-marker algorithms, can be useful for trend tracking but shouldn't be taken as absolute."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-07-09 10:08",
+    "sender": "Rohan",
+    "content": "Got it. So more directional than definitive."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-07-09 10:10",
+    "sender": "Dr Warren",
+    "content": "Exactly."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-07-10 07:25",
+    "sender": "Ruby",
+    "content": "Morning Rohan, Sarah confirmed your VO₂ Max test for Monday at 8 AM, Singapore Sports Institute."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-07-10 07:28",
+    "sender": "Rohan",
+    "content": "Noted. I'll block my morning."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-07-10 15:00",
+    "sender": "Rachel",
+    "content": "Hi Rohan, post-labs I'll send you a 2-week mobility + light cardio plan. We'll adjust intensity based on VO₂ and HRV."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-07-10 15:05",
+    "sender": "Rohan",
+    "content": "Sounds good Rachel."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-07-11 09:00",
+    "sender": "Ruby",
+    "content": "Oura ring delivered. Sarah will bring it to your office today."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-07-11 09:02",
+    "sender": "Rohan",
+    "content": "Thanks Ruby."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-07-11 17:45",
+    "sender": "Ruby",
+    "content": "Lab results in. Dr Warren's reviewing tonight, will update tomorrow."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-07-12 09:20",
+    "sender": "Dr Warren",
+    "content": "Overall profile's decent. ApoB is a bit elevated; Lp(a) in normal range. We'll fine-tune diet and possibly add a supplement."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-07-12 09:25",
+    "sender": "Rohan",
+    "content": "Ok, let's aim to to that without impacting focus or energy."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-07-12 09:30",
+    "sender": "Carla",
+    "content": "We can start with soluble fiber increase and tweak your fat sources. Minimal disruption to meals."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-07-12 09:35",
+    "sender": "Rohan",
+    "content": "Easy enough. Thanks Carla."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-07-12 20:15",
+    "sender": "Ruby",
+    "content": "Your week's been a win: labs done, wearable added, food logging started. Monday's VO₂ Max will complete your baseline."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-07-12 20:18",
+    "sender": "Rohan",
+    "content": "Good start indeed. Appreciate the smooth handling"
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-07-13 08:00",
+    "sender": "Ruby",
+    "content": "Travel next week, right? I'll prep the portable kit and adjust your plan for hotel workouts."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-07-13 08:02",
+    "sender": "Rohan",
+    "content": "Yes — Seoul Wed to Sat. Hotel gym's decent."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-07-13 08:05",
+    "sender": "Ruby",
+    "content": "Got it. I'll send your Seoul-specific plan to Sarah by tonight. I'll also schedule your DEXA scan for Sunday with Sarah."
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-09-21 08:30",
+    "sender": "Neel",
+    "content": "Good morning Rohan! Wrapping up Q1, your journey has shifted from foundational health to building a platform for high performance. Key wins across sleep, metabolic health, and training—team ready to present the full summary. Appreciate your commitment 🙏"
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-09-21 08:35",
+    "sender": "Rohan",
+    "content": "Morning Neel… Sounds good. Looking forward to seeing the numbers and insights. Appreciate the team effort here."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-09-21 09:10",
+    "sender": "Ruby",
+    "content": "Rohan, here's the official Q1 Progress Report: [link]. Includes KPI table, narrative of experiments, and insights across sleep, metabolic, nutrition, and performance. Everything consolidated for easy review. Let me know if you want a quick walkthrough."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-09-21 09:15",
+    "sender": "Rohan",
+    "content": "Received, Ruby. Will review today. Thanks for keeping it concise and clear."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-09-21 10:00",
+    "sender": "Advik",
+    "content": "Rohan, highlight from wearables: average nightly HRV up 12% vs baseline. Strong objective signal of improved autonomic resilience. Confirms sleep and recovery interventions are effective."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-09-21 10:05",
+    "sender": "Rohan",
+    "content": "Nice. That's a solid improvement. Good to see data validating the small tweaks we implemented."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-09-21 10:20",
+    "sender": "Carla",
+    "content": "Rohan, metabolic highlight: glycemic variability down ~40%, supporting long-term ApoB goals. Shows meal timing and composition changes are yielding measurable results."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-09-21 10:25",
+    "sender": "Rohan",
+    "content": "Excellent Carla. That's a meaningful change. Glad to see the plan paying off."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-09-21 10:40",
+    "sender": "Rachel",
+    "content": "Rohan, you've mastered form on all foundational lifts. Ready to progress to Phase 2 strength program next week. Consistency and form are excellent-really sets up long-term gains."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-09-21 10:45",
+    "sender": "Rohan",
+    "content": "Great news Rachel. Happy the effort is paying off and form is solid. Onwards to Phase 2 then."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-09-21 11:15",
+    "sender": "Ruby",
+    "content": "Quick follow-up on last week: blue-light blocking glasses delivered and sleep metrics confirm improved deep sleep. Regarding your mouth-taping inquiry, Dr Warren recommends cautious trial only if nasal passages are clear, tracking Oura metrics closely."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-09-21 11:20",
+    "sender": "Rohan",
+    "content": "Perfect. Will try with caution. Appreciate the guidance."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-09-21 12:00",
+    "sender": "Dr Warren",
+    "content": "Rohan, confirming Ruby's note: mouth taping may help sleep quality via nasal breathing, but only if no obstruction. Track nightly Oura HRV and deep sleep to evaluate benefit."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-09-21 12:05",
+    "sender": "Rohan",
+    "content": "Understood. Will log metrics carefully. Thanks for the clarity, Dr Warren."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-09-22 08:30",
+    "sender": "Ruby",
+    "content": "Rohan, just confirming all Q1 logistics—report sent, CGM patch schedule aligned, wearable data synced, and exercise plan updated for next week. Everything set for smooth monitoring."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-09-22 08:35",
+    "sender": "Rohan",
+    "content": "Thanks Ruby. Excellent to have everything synced and ready. Makes life much easier."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-09-22 12:15",
+    "sender": "Advik",
+    "content": "Quick data recap: sleep, HRV, glycemic control, and training metrics all trending positively vs baseline. The interventions from Q1 are validated. No new adverse trends."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-09-22 12:20",
+    "sender": "Rohan",
+    "content": "Great, Advik. Feels like a solid foundation for the next phase. Thanks for the clarity."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-09-23 07:50",
+    "sender": "Rachel",
+    "content": "Rohan, morning check: strength and cardio sessions holding up well. Keep consistency for VO₂ max and recovery. Small improvements compound over time."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-09-23 07:55",
+    "sender": "Rohan",
+    "content": "Thanks Rachel. Feeling stronger and more stable. Appreciate the nudge and tracking."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-09-23 17:30",
+    "sender": "Carla",
+    "content": "Rohan, meals this week aligned well with target macros. Glycemic load stable, ApoB trajectory on track. Minor tweaks for evening carbs suggested to further stabilize glucose overnight."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-09-23 17:35",
+    "sender": "Rohan",
+    "content": "Thanks Carla. Noted on evening carbs. Will adjust accordingly."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-09-24 08:10",
+    "sender": "Ruby",
+    "content": "Rohan, friendly reminder: Q1 Review call scheduled next week. Proposed agenda: KPI recap, sleep/metabolic/performance highlights, and Q2 strategic plan. Will confirm exact slot with Sarah."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-09-24 12:15",
+    "sender": "Rohan",
+    "content": "Thanks Ruby. Sarah just informed me, Thursday 10:00 works for me. Looking forward to the discussion."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-09-24 12:30",
+    "sender": "Neel",
+    "content": "Confirmed Thursday 10:00 for Q1 Review call. Team will prepare detailed visuals and proposed Phase 2 roadmap. Excited to outline next steps for peak performance."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-09-24 12:35",
+    "sender": "Rohan",
+    "content": "Perfect. Thanks Neel. Appreciate the foresight in preparing the roadmap."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-09-25 09:00",
+    "sender": "Advik",
+    "content": "Rohan, small data insight: HRV spikes on days with early morning cardio + blue-light glasses use consistently. Reinforces our interventions work synergistically."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-09-25 09:05",
+    "sender": "Rohan",
+    "content": "Noted. Nice to see the synergy reflected in numbers. Makes adherence feel worth it."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-09-25 17:20",
+    "sender": "Rachel",
+    "content": "Rohan, strength progression update: Phase 1 lifts plateauing at target reps/weight. Ready to scale Phase 2 next week post-Q1 review. Form remains excellent."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-09-25 17:25",
+    "sender": "Rohan",
+    "content": "Sounds good Rachel. Happy with consistency and form. Ready for Phase 2 after review."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-09-26 08:45",
+    "sender": "Ruby",
+    "content": "Rohan, all set for Thursday call: visuals prepped, KPIs summarized, CGM and wearable trends highlighted. You'll have the full picture for Q1 insights and next steps."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-09-26 08:50",
+    "sender": "Rohan",
+    "content": "Thanks Ruby. Really appreciate the team ensuring a smooth, clear presentation."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-09-26 12:00",
+    "sender": "Carla",
+    "content": "Rohan, final note: nutrition compliance 85% over Q1. Metabolic improvements aligned with goals. Minor gaps addressed with your in-house cook for Phase 2."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-09-26 12:05",
+    "sender": "Rohan",
+    "content": "Excellent Carla. Thanks for tracking and coordinating with the cook. It makes adherence seamless."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-09-27 07:30",
+    "sender": "Neel",
+    "content": "Rohan, final note before Q1 Review: collective team feedback indicates strong foundation built, clear improvements in sleep, metabolic health, and performance. Phase 2 roadmap will focus on optimization and resilience. Call Thursday to discuss in detail."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-09-27 07:35",
+    "sender": "Rohan",
+    "content": "Thanks Neel. Feels like a solid wrap to Q1. Appreciate everyone's proactive tracking and insights - it really makes this partnership work."
+  }
+]

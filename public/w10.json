@@ -1,0 +1,218 @@
+[
+    {
+        "id": "msg_001",
+        "timestamp": "2025-09-07 08:12",
+        "sender": "Rohan",
+        "content": "Morning Ruby, heads up, I've got a last-minute trip to Seoul starting Wed. Need travel plan v2.0 please."
+    },
+    {
+        "id": "msg_002",
+        "timestamp": "2025-09-07 08:18",
+        "sender": "Ruby",
+        "content": "Got it, Rohan👍 I'll coordinate with the team today. Will handle flights, gym pass, and local contacts. Anything urgent on your side before I lock the plan?"
+    },
+    {
+        "id": "msg_003",
+        "timestamp": "2025-09-07 08:21",
+        "sender": "Rohan",
+        "content": "Nothing urgent, just make sure it works with my CGM setup."
+    },
+    {
+        "id": "msg_004",
+        "timestamp": "2025-09-07 09:03",
+        "sender": "Advik",
+        "content": "Morning, I'll adapt your jet lag protocol for Seoul (+1 hr from Singapore). Will also sync meal/light exposure with CGM patterns."
+    },
+    {
+        "id": "msg_005",
+        "timestamp": "2025-09-07 09:20",
+        "sender": "Rachel",
+        "content": "I'll research a nearby gym with the right equipment for your current program. Will confirm by tonight."
+    },
+    {
+        "id": "msg_006",
+        "timestamp": "2025-09-07 09:31",
+        "sender": "Carla",
+        "content": "Noted - will prep a Korea-friendly nutrition guide factoring local dishes + CGM. Will send before you fly."
+    },
+    {
+        "id": "msg_007",
+        "timestamp": "2025-09-07 14:05",
+        "sender": "Neel",
+        "content": "This is a good chance to stress-test the plan in a new market. Will add a note to review data post-trip for insights."
+    },
+    {
+        "id": "msg_008",
+        "timestamp": "2025-09-07 16:50",
+        "sender": "Ruby",
+        "content": "Quick update - found a gym 5min walk from hotel, English-speaking staff. Temporary pass confirmed. Will include in your travel kit."
+    },
+    {
+        "id": "msg_009",
+        "timestamp": "2025-09-08 07:42",
+        "sender": "Advik",
+        "content": "Jet lag plan ready: shift meals 30 mins earlier each day starting today, 20min morning sunlight in Seoul."
+    },
+    {
+        "id": "msg_010",
+        "timestamp": "2025-09-08 07:55",
+        "sender": "Rohan",
+        "content": "Noted. Will start today."
+    },
+    {
+        "id": "msg_011",
+        "timestamp": "2025-09-08 11:03",
+        "sender": "Ruby",
+        "content": "Also added local emergency contact (English-speaking doctor). Will send full PDF protocol tonight."
+    },
+    {
+        "id": "msg_012",
+        "timestamp": "2025-09-08 21:15",
+        "sender": "Ruby",
+        "content": "Sent your 'Travel Protocol v2.0' doc to your email. Let me know if anything's unclear."
+    },
+    {
+        "id": "msg_013",
+        "timestamp": "2025-09-09 07:58",
+        "sender": "Rohan",
+        "content": "Protocol looks solid. Thanks Ruby!"
+    },
+    {
+        "id": "msg_014",
+        "timestamp": "2025-09-10 09:02",
+        "sender": "Ruby",
+        "content": "Safe flight later today! You're all set - gym pass, doctor contact, nutrition guide, and CGM supplies packed?"
+    },
+    {
+        "id": "msg_015",
+        "timestamp": "2025-09-10 09:08",
+        "sender": "Rohan",
+        "content": "Yep, all packed. Appreciate the prep."
+    },
+    {
+        "id": "msg_016",
+        "timestamp": "2025-09-10 21:10",
+        "sender": "Ruby",
+        "content": "How's Seoul so far? (KST now)"
+    },
+    {
+        "id": "msg_017",
+        "timestamp": "2025-09-10 21:45",
+        "sender": "Rohan",
+        "content": "Landed an hour ago. Hotel's fine. Will hit the gym in AM."
+    },
+    {
+        "id": "msg_018",
+        "timestamp": "2025-09-11 08:12",
+        "sender": "Rohan",
+        "content": "Carla - CGM spiked after lunch. Had bibimbap w/gochujang."
+    },
+    {
+        "id": "msg_019",
+        "timestamp": "2025-09-11 08:20",
+        "sender": "Carla",
+        "content": "Likely from gochujang's sugar + rice. Next meal: start w/banchan veg, then protein, then carbs. Let's see if curve flattens."
+    },
+    {
+        "id": "msg_020",
+        "timestamp": "2025-09-11 13:02",
+        "sender": "Rohan",
+        "content": "Copy that. Will try at dinner."
+    },
+    {
+        "id": "msg_021",
+        "timestamp": "2025-09-11 20:40",
+        "sender": "Rohan",
+        "content": "Team dinner ran long, couldn't stick to plan fully."
+    },
+    {
+        "id": "msg_022",
+        "timestamp": "2025-09-11 20:45",
+        "sender": "Carla",
+        "content": "No worries - just prioritize protein + fiber next time, and do a 10min walk now to help glucose drop."
+    },
+    {
+        "id": "msg_023",
+        "timestamp": "2025-09-11 20:50",
+        "sender": "Rohan",
+        "content": "Walking back to hotel now."
+    },
+    {
+        "id": "msg_024",
+        "timestamp": "2025-09-12 07:25",
+        "sender": "Rachel",
+        "content": "How's energy in the gym? And mental focus tracking on trip?"
+    },
+    {
+        "id": "msg_025",
+        "timestamp": "2025-09-12 08:05",
+        "sender": "Rohan",
+        "content": "Gym's good, focus score dipped a bit yesterday but fine today."
+    },
+    {
+        "id": "msg_026",
+        "timestamp": "2025-09-12 08:30",
+        "sender": "Advik",
+        "content": "Noted. Will cross-ref with CGM + sleep data when you're back."
+    },
+    {
+        "id": "msg_027",
+        "timestamp": "2025-09-12 09:55",
+        "sender": "Ruby",
+        "content": "Your return flight is still Sat 9pm KST, right? Just confirming for pickup logistics."
+    },
+    {
+        "id": "msg_028",
+        "timestamp": "2025-09-12 10:00",
+        "sender": "Rohan",
+        "content": "Yes, still on schedule."
+    },
+    {
+        "id": "msg_029",
+        "timestamp": "2025-09-12 12:45",
+        "sender": "Carla",
+        "content": "Tried the breakfast swap test yet? Curious about CGM curve."
+    },
+    {
+        "id": "msg_030",
+        "timestamp": "2025-09-13 08:15",
+        "sender": "Rohan",
+        "content": "Sorry missed this yesterday - yes, swapped to eggs + avocado. Spike was way lower."
+    },
+    {
+        "id": "msg_031",
+        "timestamp": "2025-09-13 08:20",
+        "sender": "Carla",
+        "content": "Perfect. That's the kind of data we can build into your core plan."
+    },
+    {
+        "id": "msg_032",
+        "timestamp": "2025-09-13 09:05",
+        "sender": "Ruby",
+        "content": "Landing arrangements in Singapore are sorted. Your driver will be waiting at T3."
+    },
+    {
+        "id": "msg_033",
+        "timestamp": "2025-09-13 09:12",
+        "sender": "Rohan",
+        "content": "Thanks Ruby. This was smooth."
+    },
+    {
+        "id": "msg_034",
+        "timestamp": "2025-09-13 14:10",
+        "sender": "Neel",
+        "content": "Let's debrief Monday — want to capture travel learnings + CGM insights while fresh."
+    },
+    {
+        "id": "msg_035",
+        "timestamp": "2025-09-13 14:15",
+        "sender": "Rohan",
+        "content": "Sounds good. Appreciate all the support this week 🙏"
+    },
+    {
+        "id": "msg_036",
+        "timestamp": "2025-09-13 15:40",
+        "sender": "Ruby",
+        "content": "Always a pleasure to keep things frictionless for you, Rohan 😊"
+    }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-07-28 07:42",
+    "sender": "Ruby",
+    "content": "Morning Rohan! Welcome back! Hope the trip wrapped up smoothly. How's the jet lag so far?"
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-07-28 08:05",
+    "sender": "Rohan",
+    "content": "Thanks Ruby. Surprisingly minimal this time - your travel protocol really helped. Slept through the night🙌"
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-07-28 09:15",
+    "sender": "Ruby",
+    "content": "That's great to hear! I'll let Advik know - he's ready with your post-travel data debrief later today."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-07-28 13:32",
+    "sender": "Advik",
+    "content": "Hi Rohan, just pulled your Oura + Garmin data from the trip. Sending you a chart — see how HRV dipped after the London flight? That's your autonomic nervous system adapting."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-07-28 13:34",
+    "sender": "Rohan",
+    "content": "Yep, I can see the drop. What's the quick fix for that?"
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-07-28 13:40",
+    "sender": "Advik",
+    "content": "On high-stress/travel days, try a 5-min guided box breathing session before bed — 4 sec inhale, 4 hold, 4 exhale, 4 hold. It helps reset your parasympathetic balance."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-07-28 13:42",
+    "sender": "Rohan",
+    "content": "Easy enough. I'll try that tonight."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-07-28 16:50",
+    "sender": "Ruby",
+    "content": "Quick note — your DEXA scan is confirmed for Thu 10:00 at Mount Elizabeth Novena. I've arranged priority check-in so it's in-and-out."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-07-28 17:01",
+    "sender": "Rohan",
+    "content": "Perfect, thanks for sorting."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-07-29 07:30",
+    "sender": "Carla",
+    "content": "Morning Rohan - I reviewed your food logs. New simple habit: start each day with 500ml water + pinch of sea salt before coffee. Supports hydration & focus."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-07-29 07:35",
+    "sender": "Rohan",
+    "content": "Got it. Why the salt?"
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-07-29 07:38",
+    "sender": "Carla",
+    "content": "Small sodium bump helps retain fluids and supports electrolyte balance — key for brain function, especially after sleep."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-07-29 07:40",
+    "sender": "Rohan",
+    "content": "Makes sense. Will start tomorrow."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-07-29 11:15",
+    "sender": "Dr Warren",
+    "content": "Rohan - initial results show ApoB at 110 mg/dL. Elevated. This is now our top priority to lower your cardiovascular risk. Plan will be built around this."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-07-29 11:18",
+    "sender": "Rohan",
+    "content": "Understood. Thanks for being clear."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-07-29 15:05",
+    "sender": "Ruby",
+    "content": "Noted ApoB as priority in your health dashboard - we'll align all habits & nutrition targets accordingly."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-07-30 06:58",
+    "sender": "Rohan",
+    "content": "Quick one, Oura says my sleep score was 82, Garmin says 75. Which do I trust?"
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-07-30 07:15",
+    "sender": "Advik",
+    "content": "Both use different algorithms. Think of them as two perspectives. Our role is to be your single source of truth — we synthesise all device trends into one coherent picture."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-07-30 07:18",
+    "sender": "Rohan",
+    "content": "Got it. I'll leave the reconciliation to you."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-07-30 09:40",
+    "sender": "Ruby",
+    "content": "Rachel's movement assessment is set for tomorrow 16:00 SGT. Link's in your calendar."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-07-30 09:42",
+    "sender": "Rohan",
+    "content": "Thanks. Will be in the office but can find a quiet spot."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-07-31 10:02",
+    "sender": "Ruby",
+    "content": "Morning! Just confirming your DEXA today at 10:00. Car is ready downstairs."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-07-31 12:20",
+    "sender": "Ruby",
+    "content": "Hope DEXA went smoothly — results will be in your consolidated report next week."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-07-31 12:25",
+    "sender": "Rohan",
+    "content": "Yes, quick and painless. Appreciate the smooth booking🙏"
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-07-31 16:58",
+    "sender": "Rachel",
+    "content": "Nice work today - your squat shows some ankle mobility limits, likely from travel. First training block will target that for safer strength gains."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-07-31 17:02",
+    "sender": "Rohan",
+    "content": "Didn't realise my ankles were part of the problem! Happy to work on it."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-08-01 08:10",
+    "sender": "Ruby",
+    "content": "Morning check-in - how's the hydration + breathing routine so far?"
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-08-01 08:22",
+    "sender": "Rohan",
+    "content": "Water is easy. Breathing… I keep forgetting before bed."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-08-01 08:25",
+    "sender": "Ruby",
+    "content": "Let's set a 9:30pm reminder for you. I'll coordinate with Sarah."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-08-01 12:40",
+    "sender": "Carla",
+    "content": "If the salt water feels bland, add a squeeze of lemon. Keeps it enjoyable so you stick with it."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-08-01 12:42",
+    "sender": "Rohan",
+    "content": "Nice, will try that tomorrow."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-08-02 07:05",
+    "sender": "Ruby",
+    "content": "Morning! Small win, your Oura HRV last night was the highest since your London trip 🎉"
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-08-02 07:15",
+    "sender": "Rohan",
+    "content": "Good to hear. That breathing exercise might be doing something."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-08-02 09:00",
+    "sender": "Neel",
+    "content": "Rohan, great momentum this week. We've gone from collecting data to actually shaping habits, exactly where we want to be."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-08-02 09:03",
+    "sender": "Rohan",
+    "content": "Feels like progress. Thanks team."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-08-02 18:25",
+    "sender": "Ruby",
+    "content": "Monday we'll start integrating DEXA results with your other baselines - expect clear targets for the next 6 weeks."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-08-03 08:45",
+    "sender": "Rohan",
+    "content": "Sounds good. Want to see the whole picture."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-08-03 10:12",
+    "sender": "Ruby",
+    "content": "Absolutely. the aim is one clear action plan, no noise."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-08-03 18:50",
+    "sender": "Ruby",
+    "content": "Closing the week strong! Hydration compliance 6/7 days, breathing 3/7. That's a start. We'll keep building."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-08-03 19:05",
+    "sender": "Rohan",
+    "content": "Appreciate the quick recap!"
+  }
+]

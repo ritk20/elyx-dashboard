@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-11-09 08:15",
+    "sender": "Neel",
+    "content": "Morning Rohan. Congrats again on the MRI 'all clear' 🙌. This really sets us up to push forward strategically. This week is about weaving your cognitive pillar and heart health prevention deeper into daily life. Ruby will keep logistics smooth as always."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-11-09 08:27",
+    "sender": "Rohan",
+    "content": "Thanks Neel. Clean slate feels good👍 Curious to see how everything connects now."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-11-09 09:02",
+    "sender": "Ruby",
+    "content": "Morning Rohan. Just confirming Sarah sent over your schedule - I've slotted your weekly dashboard review for Monday 7pm. No prep required, I'll walk you through it."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-11-09 09:14",
+    "sender": "Rohan",
+    "content": "Perfect, thanks Ruby. I'll be on time."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-11-09 11:25",
+    "sender": "Advik",
+    "content": "Rohan, quick note: your Garmin + piano practice logs are syncing well. First dashboard tomorrow will show not just sleep/HRV, but also focus scores aligned with your practice sessions"
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-11-09 11:41",
+    "sender": "Rohan",
+    "content": "Great, keen to see how the piano/focus link plays out."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-11-09 14:12",
+    "sender": "Carla",
+    "content": "Hi Rohan! I've scheduled a Q2 menu planning call with Javier tomorrow 11am. We'll build full weekly menus aligned with your ApoB-lowering protocol. You don't need to join, I'll send you a summary."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-11-09 14:20",
+    "sender": "Rohan",
+    "content": "Sounds good. Please make it interesting for him too, so it sticks."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-11-10 10:55",
+    "sender": "Carla",
+    "content": "Just wrapped with Javier. Productive session, we built a 7-day rotation he's excited about. One note: we'd like to use a specific high-polyphenol olive oil brand for dressings."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-11-10 11:03",
+    "sender": "Ruby",
+    "content": "Rohan, I saw Carla and Javier landed on a specific olive oil. I've already sourced it and can have it delivered tomorrow. Shall I proceed?"
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-11-10 11:12",
+    "sender": "Rohan",
+    "content": "Yes please, Ruby. That's exactly the kind of friction you remove so well!"
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-11-10 19:05",
+    "sender": "Ruby",
+    "content": "Dashboard time. Sharing highlights: ApoB trending down, stress recovery improving, piano practice logged 4/5 days. Focus scores rose slightly on practice days. I'll send you the PDF after our chat."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-11-10 19:18",
+    "sender": "Rohan",
+    "content": "Really interesting that the focus bump is already visible. Thanks for packaging it neatly."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-11-11 09:42",
+    "sender": "Dr Warren",
+    "content": "Rohan, now that the MRI is clear and ApoB is trending down, it's time to get a true baseline of arterial health. I recommend a Coronary Artery Calcium (CAC) Score. This quick scan quantifies calcified plaque. A score of zero is a powerful reassurance."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-11-11 09:58",
+    "sender": "Rohan",
+    "content": "Is the logic here that CAC shows the calcified/stable plaque, while our ApoB + inflammation work targets the unstable, non-calcified plaque? Want to be sure I'm seeing the full picture."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-11-11 10:10",
+    "sender": "Dr Warren",
+    "content": "Exactly right, Rohan. CAC measures calcified plaque, stable but still relevant. By lowering ApoB/inflammation, we reduce the formation of both calcified and soft, unstable plaques. The two data points together give a more complete risk profile."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-11-11 10:25",
+    "sender": "Rohan",
+    "content": "Clear explanation. Makes sense. Let's move ahead with CAC scheduling then."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-11-11 11:03",
+    "sender": "Ruby",
+    "content": "I'll arrange your CAC scan this week, Rohan. Easiest slot is Friday 8am at Mt E Novena. I'll coordinate with Sarah on transport."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-11-11 11:15",
+    "sender": "Rohan",
+    "content": "Friday 8am works. Please confirm with Sarah."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-11-11 18:45",
+    "sender": "Rohan",
+    "content": "Rachel, my overhead press has stalled for 2 weeks. Weight just won't move up. Any tweaks?"
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-11-11 19:02",
+    "sender": "Rachel",
+    "content": "Plateaus happen. Switch to single-arm dumbbell presses for 3 weeks. It'll stimulate stabilizers differently, then we can return to barbell. Keep reps in the 6-8 range."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-11-11 19:17",
+    "sender": "Rohan",
+    "content": "Got it. Will start tomorrow morning."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-11-12 07:58",
+    "sender": "Rohan",
+    "content": "Carla, getting a bit bored with breakfast. Based on my CGM, any other low-glycemic options worth rotating in?"
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-11-12 08:15",
+    "sender": "Carla",
+    "content": "Yes! From your data, you handle savory breakfasts well. New ideas: avocado + smoked salmon wrap, chia pudding with nuts, or veggie omelette with extra greens. Keeps glucose flat and adds variety."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-11-12 08:29",
+    "sender": "Rohan",
+    "content": "Perfect. Let's get Javier trying those."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-11-12 13:40",
+    "sender": "Ruby",
+    "content": "Olive oil delivery confirmed for 2pm today. Javier's already aware👍"
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-11-12 14:05",
+    "sender": "Rohan",
+    "content": "Appreciate the quick turnaround Ruby."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-11-12 21:14",
+    "sender": "Advik",
+    "content": "FYI: Your HRV dipped slightly last night. Could be travel fatigue catching up. Let's see if piano + low-intensity movement helps recovery tonight."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-11-12 21:28",
+    "sender": "Rohan",
+    "content": "Noted. I'll keep intensity light tomorrow."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-11-13 07:42",
+    "sender": "Rachel",
+    "content": "How did the single-arm presses feel this morning?"
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-11-13 07:55",
+    "sender": "Rohan",
+    "content": "Harder than expected but good burn💪 Nice change."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-11-13 12:30",
+    "sender": "Ruby",
+    "content": "Just to flag: CAC scan prep is minimal. No fasting needed, takes ~15 mins. Sarah has the logistics."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-11-13 12:44",
+    "sender": "Rohan",
+    "content": "Great!"
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-11-14 08:50",
+    "sender": "Carla",
+    "content": "Javier reports the avocado-salmon wrap was a hit this morning. CGM stayed beautifully flat."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-11-14 09:02",
+    "sender": "Rohan",
+    "content": "Nice. I actually enjoyed it more than my usual eggs."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-11-14 18:25",
+    "sender": "Neel",
+    "content": "Big picture check-in: between the CAC scan, new menu, and piano practice, you're hitting all three long-term pillars simultaneously—cardiac, nutrition, and cognitive. This is the strategic integration we envisioned."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-11-14 18:38",
+    "sender": "Rohan",
+    "content": "That framing helps-feels like pieces are finally fitting together."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-11-15 08:10",
+    "sender": "Ruby",
+    "content": "Morning! Just confirming Sarah has you set for your CAC scan yesterday. Report expected early next week. I'll keep you posted once it lands."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-11-15 08:25",
+    "sender": "Rohan",
+    "content": "Yes, scan went smoothly. Let's see what comes back."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-11-15 20:12",
+    "sender": "Ruby",
+    "content": "Closing the week—data and routines locked in, olive oil in the kitchen, CAC underway. You're in great momentum, Rohan. Enjoy your Sunday evening."
+  }
+]

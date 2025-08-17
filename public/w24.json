@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-12-15 07:12",
+    "sender": "Ruby",
+    "content": "Morning Rohan — Day 1 of your keto experiment ✅. Dashboard is live, and all baseline markers are locked in. Wishing you a smooth start today! 🚀"
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-12-15 07:25",
+    "sender": "Rohan",
+    "content": "Thanks Ruby, starting with the meal plan Javier prepped. Feels structured already 👍."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-12-15 09:40",
+    "sender": "Carla",
+    "content": "Hi Rohan, just confirming Javier has the new keto recipe rotation for Week 1. Any concerns with the adjustments so far?"
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-12-15 09:55",
+    "sender": "Rohan",
+    "content": "All good so far. He asked if cheese portions are flexible? He tends to eyeball 😅."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-12-15 10:10",
+    "sender": "Carla",
+    "content": "Great Q — tell him portions are flexible *within* the macros. As long as protein stays balanced, cheese swaps are fine. I’ll send him an example plate for clarity."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-12-15 18:05",
+    "sender": "Ruby",
+    "content": "Quick check-in: Day 1 complete! How are you feeling so far? Any headaches or dips in focus?"
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-12-15 18:22",
+    "sender": "Rohan",
+    "content": "Bit sluggish in the afternoon but manageable. Hydration might’ve been off."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-12-15 18:35",
+    "sender": "Carla",
+    "content": "That’s normal in early keto — sodium & hydration are key. Add a pinch of salt to water twice daily for the first week. Should ease the dip."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-12-16 07:05",
+    "sender": "Ruby",
+    "content": "Morning Rohan ☀️ Day 2 — dashboard showing stable ketones already. Nice trajectory."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-12-16 07:30",
+    "sender": "Rohan",
+    "content": "Good to know. Energy feels steadier than yesterday."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-12-16 11:15",
+    "sender": "Advik",
+    "content": "Rohan, early data: your resting HR is holding ~5 bpm lower than Q1 averages, even under new training stress. Cardiovascular efficiency clearly improving 📉."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-12-16 11:28",
+    "sender": "Rohan",
+    "content": "That’s encouraging. I’ll keep a closer eye on HRV alongside."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-12-16 18:55",
+    "sender": "Ruby",
+    "content": "Day 2 wrap: dashboard logs are clean. No missed entries, well done 👌."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-12-17 08:15",
+    "sender": "Rachel",
+    "content": "Rohan, congrats on completing Phase 1 strength. You’re into Phase 2 with smooth progression. Clear trajectory toward longevity strength goals 💪."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-12-17 08:40",
+    "sender": "Rohan",
+    "content": "Thanks Rachel. I’ll aim to keep consistency despite diet transition."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-12-17 10:05",
+    "sender": "Ruby",
+    "content": "Sharing now: your Q2 Progress Report 📊 (link attached). This is the official wrap-up of the quarter."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-12-17 10:20",
+    "sender": "Neel",
+    "content": "Rohan, Q2 has been a milestone quarter — a shift from stabilization to true optimization and co-creation. ApoB down 29%, VO₂max trending up, and your active participation in experiment design is a big leap forward."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-12-17 10:38",
+    "sender": "Rohan",
+    "content": "Reviewing now. Impressive to see all the metrics in one place. Thanks team 🙏."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-12-17 14:50",
+    "sender": "Carla",
+    "content": "Nutrition win from Q2: 29% ApoB drop and 40% reduction in glycemic variability. That’s the cumulative effect of tailored meal cycles and consistency."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-12-17 15:02",
+    "sender": "Rohan",
+    "content": "That’s motivating. Javier will be pleased to hear his effort paid off too."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-12-18 07:20",
+    "sender": "Rohan",
+    "content": "Quick q: I’m tracking ketones + glucose to calculate my GKI. Do you consider this a strong metric for therapeutic ketosis?"
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-12-18 07:40",
+    "sender": "Advik",
+    "content": "Yes, GKI is valuable — it captures metabolic balance more holistically than ketones alone. I’ll add it to your shared dashboard so you can see trends in real time."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-12-18 07:55",
+    "sender": "Rohan",
+    "content": "Perfect, thanks. Makes it easier to quantify the focus effects I’m feeling."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-12-18 12:25",
+    "sender": "Dr Warren",
+    "content": "Rohan, your keto experiment is a great test of personal nutrition response. Looking ahead, I suggest considering a Pharmacogenomics panel — it’ll map how your genes influence medication response (e.g., statins). A powerful tool for long-term planning."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-12-18 12:40",
+    "sender": "Rohan",
+    "content": "Makes sense. Let’s revisit after the holiday season — but I’m aligned on the value."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-12-18 18:05",
+    "sender": "Ruby",
+    "content": "Day 4 check-in: dashboard shows ketones stabilizing at 1.7 mmol/L, and your GKI is trending toward therapeutic range. Nicely done 👏."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-12-18 18:20",
+    "sender": "Rohan",
+    "content": "Feeling sharper in the afternoons now. Big contrast from Day 1."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-12-19 08:40",
+    "sender": "Ruby",
+    "content": "Morning Rohan — today marks the mid-week checkpoint. Any barriers you’d like us to troubleshoot?"
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-12-19 08:55",
+    "sender": "Rohan",
+    "content": "Social dinner tonight may be tricky. Steakhouse menu though, so I’ll navigate with protein-heavy picks."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-12-19 09:10",
+    "sender": "Carla",
+    "content": "Smart approach — steak, leafy sides, butter-based sauces are safe bets. Skip breads & sweet sauces. You’ll stay in range."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-12-19 23:05",
+    "sender": "Rohan",
+    "content": "Dinner went smoothly, managed to hold off on dessert too 👍."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-12-20 07:30",
+    "sender": "Ruby",
+    "content": "Day 6 — dashboard confirms you stayed in ketosis post-dinner. Well navigated 👌."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-12-20 09:00",
+    "sender": "Neel",
+    "content": "An outstanding Q2, Rohan. Your leadership in designing this experiment marks a new level of partnership. Ruby will coordinate with Sarah to schedule our Q3 Kick-Off call next week — that’s when we’ll formally launch the next phase."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-12-20 09:15",
+    "sender": "Rohan",
+    "content": "Appreciate it Neel. The structure’s been invaluable. Looking forward to Q3 planning."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-12-20 12:40",
+    "sender": "Ruby",
+    "content": "I’ll liaise with Sarah today and lock in the Q3 call slot. You’ll have a calendar invite shortly 📅."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-12-20 12:55",
+    "sender": "Rohan",
+    "content": "Thanks Ruby, appreciate the quick turnaround as always."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-12-20 16:10",
+    "sender": "Rachel",
+    "content": "FYI, next week we’ll up intensity slightly on your strength block. Just in time to carry momentum into Q3."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-12-20 16:25",
+    "sender": "Rohan",
+    "content": "Got it. Should be manageable now that energy is stabilizing."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-12-20 20:00",
+    "sender": "Ruby",
+    "content": "Closing out Week 24 ✅. Keto experiment is off to a great start, Q2 report delivered, and Q3 call in motion. Strong finish!"
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-12-20 20:15",
+    "sender": "Rohan",
+    "content": "Thanks team — big week. Let’s carry this momentum forward 🚀."
+  }
+]

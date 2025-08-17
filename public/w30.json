@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2026-01-27 08:15",
+    "sender": "Neel",
+    "content": "Rohan, attached is v1.0 of your personal Peak Performance Playbook. It contains the precise pre-event nutrition, stress inoculation, and biofeedback protocols that led to your keynote success. This is now a permanent asset in your toolkit."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2026-01-27 08:23",
+    "sender": "Rohan",
+    "content": "Got it Neel, this feels solid. Exactly the kind of repeatable system I need. Thanks for pulling it together 🙏"
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2026-01-27 09:10",
+    "sender": "Ruby",
+    "content": "Morning Rohan! Sarah has confirmed your consultation with Dr. Alice Chen (clinical psychologist) for Feb 10, 2pm. She specializes in exec stress resilience. It’s already in your calendar ✅"
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2026-01-27 09:18",
+    "sender": "Rohan",
+    "content": "Perfect, thanks Ruby. Appreciate how seamless you make this."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2026-01-27 11:45",
+    "sender": "Advik",
+    "content": "Rohan, to complement Dr. Chen’s work and give us a real-time lens, I recommend trialing a continuous daytime HRV monitor. It'll show how meetings/tasks impact your nervous system—basically stress in real-time."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2026-01-27 12:01",
+    "sender": "Rohan",
+    "content": "So the Oura ring gives me the overnight 'recharge' score, while this new monitor would give me the real-time 'drain' score during the day? Almost like managing my energy as a battery?"
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2026-01-27 12:10",
+    "sender": "Advik",
+    "content": "Exactly 👌 That’s the perfect analogy. With both data streams, we’ll know when you’re fully charged vs when your battery is draining too quickly."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2026-01-27 13:05",
+    "sender": "Rohan",
+    "content": "Alright, let’s trial it. If it’s frictionless to wear, I’m in."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2026-01-27 14:22",
+    "sender": "Ruby",
+    "content": "Noted 👍 I’ll handle logistics and have the HRV device couriered to your office by Thursday. Setup guide will be in the box, but I’ll also send a quick walkthrough."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2026-01-27 17:30",
+    "sender": "Dr Warren",
+    "content": "Rohan, as we prep for your mid-February diagnostics, I recommend adding APOE4 genetic testing. It’s a key marker for both cardiovascular and Alzheimer’s risk. Knowing your status shapes long-term prevention."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2026-01-27 18:00",
+    "sender": "Rohan",
+    "content": "Interesting. I’ve read about APOE4 in relation to Alzheimer’s… so this would let us take a more proactive stance if I carry it?"
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2026-01-27 18:15",
+    "sender": "Dr Warren",
+    "content": "Exactly. If positive, we’d optimize diet, exercise, and cognitive training earlier. If negative, you gain peace of mind. Either way, it’s valuable foresight."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2026-01-27 18:25",
+    "sender": "Rohan",
+    "content": "Makes sense. Let’s add it in with the Feb bloods then."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2026-01-27 18:32",
+    "sender": "Ruby",
+    "content": "Got it Rohan. I’ll add APOE4 to your Feb requisition. No extra appointments needed ✅"
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2026-01-28 07:45",
+    "sender": "Rachel",
+    "content": "Quick check-in: how’re the fasted cardio sessions going? Any dizziness or flare-ups with the POTS?"
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2026-01-28 08:05",
+    "sender": "Rohan",
+    "content": "Did 3 sessions last week, one got cut short because of lightheadedness. Overall feels good though, especially post-session clarity."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2026-01-28 08:15",
+    "sender": "Rachel",
+    "content": "That’s encouraging 👍 If dizziness persists, shorten warmup + hydrate earlier. Keep HR in zone 2 for now."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2026-01-28 09:02",
+    "sender": "Carla",
+    "content": "Rohan, quick one—your cook has been consistent with meal photos 👌 I’m seeing better carb-timing alignment. How’re you feeling with the reintroduction?"
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2026-01-28 09:30",
+    "sender": "Rohan",
+    "content": "Honestly—no crashes, digestion feels smoother. Big shift from before. Thanks for coaching the kitchen directly, makes it painless for me."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2026-01-28 10:15",
+    "sender": "Carla",
+    "content": "Love hearing that. Metabolic flexibility is exactly what we want long term 🚀"
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2026-01-29 07:25",
+    "sender": "Ruby",
+    "content": "Morning! Courier just dropped the HRV monitor at your office. Should be on your desk. Want me to WhatsApp you the 3-step setup now or after work?"
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2026-01-29 07:40",
+    "sender": "Rohan",
+    "content": "Thanks Ruby, after work’s better. Meetings back-to-back this morning."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2026-01-29 18:05",
+    "sender": "Ruby",
+    "content": "Got it 👍 Setup is: 1) Charge for 30 min, 2) Pair via app (QR code in box), 3) Wear on non-dominant arm. That’s it. Should auto-sync."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2026-01-29 18:20",
+    "sender": "Rohan",
+    "content": "Done in under 10 mins. Nice. Let’s see what the data says tomorrow."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2026-01-30 09:05",
+    "sender": "Advik",
+    "content": "First HRV stream looks clean ✅ Yesterday your biggest drop was around 3pm—any chance that was the investor call?"
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2026-01-30 09:22",
+    "sender": "Rohan",
+    "content": "Ha, good catch. Yes, that was the call. Stress spike makes sense."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2026-01-30 09:30",
+    "sender": "Advik",
+    "content": "This is exactly the value—linking events to physiology. We’ll build counter-strategies for those stress-heavy windows."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2026-01-30 10:00",
+    "sender": "Rohan",
+    "content": "Feels very actionable. Almost like building my own performance dashboard."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2026-01-31 07:55",
+    "sender": "Ruby",
+    "content": "Reminder: Sarah confirmed your diagnostics are booked for Feb 15th, 8am @ Mount Elizabeth. I’ll send a prep checklist next week."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2026-01-31 08:10",
+    "sender": "Rohan",
+    "content": "Great, block it in. Thanks for staying ahead of it."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2026-01-31 09:40",
+    "sender": "Neel",
+    "content": "Quick strategic note—your Playbook is a living doc. As we see results from HRV + Dr Chen, we’ll add those layers. Treat it as your personal ops manual."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2026-01-31 10:00",
+    "sender": "Rohan",
+    "content": "Understood. It’s reassuring having it consolidated in one place."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2026-02-01 08:30",
+    "sender": "Rachel",
+    "content": "Morning Rohan—any muscle soreness creeping in from the new circuits?"
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2026-02-01 08:45",
+    "sender": "Rohan",
+    "content": "A little in the hamstrings but nothing that lingers. Recovery feels better than 2 months ago."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2026-02-01 09:00",
+    "sender": "Rachel",
+    "content": "Good sign 🙌 Keep post-session stretches consistent, that’s preventing flare-ups."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2026-02-01 15:20",
+    "sender": "Carla",
+    "content": "Just reviewed yesterday’s dinner log—fantastic protein balance. That supports recovery perfectly."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2026-02-01 15:45",
+    "sender": "Rohan",
+    "content": "Thanks Carla, credit goes to the cook following your notes. It’s pretty effortless for me now."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2026-02-02 07:50",
+    "sender": "Ruby",
+    "content": "Happy Monday! This week focus is stability—HRV monitor on, nutrition steady, prep for Feb 10 with Dr. Chen. I’ll coordinate with Sarah on any schedule bumps."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2026-02-02 08:05",
+    "sender": "Rohan",
+    "content": "Perfect. Thanks Ruby, you’ve got everything covered."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2026-02-02 09:15",
+    "sender": "Neel",
+    "content": "Zooming out: you now have playbook + real-time stress data + mental resilience pillar coming online. That’s a very robust system build, Rohan."
+  }
+]

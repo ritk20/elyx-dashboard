@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2026-01-11 08:15",
+    "sender": "Ruby",
+    "content": "Good morning Rohan ☀️ Neel suggested we kick off the week with the keynote debrief today. Shall I lock in a 30-min slot with the team around 6pm SGT?"
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2026-01-11 08:27",
+    "sender": "Rohan",
+    "content": "Morning Ruby. 6pm works, I’ll be back from client meetings by then. Let’s confirm 👍"
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2026-01-11 18:02",
+    "sender": "Neel",
+    "content": "Rohan, great to have you on. Congrats again on the keynote—your execution validated a lot of the prep work. Today we’re codifying this into your personal Peak Performance Playbook."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2026-01-11 18:04",
+    "sender": "Rohan",
+    "content": "Thanks Neel. Felt the best I have in months. Curious to see how the team interprets the data."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2026-01-11 18:07",
+    "sender": "Advik",
+    "content": "From your HRV and sleep data: HRV climbed steadily 48h pre-keynote, sleep efficiency was 90%. The biofeedback drills clearly buffered stress response. Strong evidence the prep was effective."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2026-01-11 18:12",
+    "sender": "Carla",
+    "content": "Nutrition side: targeted electrolytes + ketogenic base stabilized energy. You avoided the typical post-speech crash we often see. That stability is now repeatable."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2026-01-11 18:17",
+    "sender": "Neel",
+    "content": "Exactly. We’ll lock this into your Playbook so future high-stakes events have a proven protocol. You now have a blueprint."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2026-01-11 18:20",
+    "sender": "Rohan",
+    "content": "Makes sense. Appreciate the synthesis 🙏 Let’s definitely codify this for future use."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2026-01-12 07:43",
+    "sender": "Ruby",
+    "content": "Morning! Advik and Carla will send through first results from the carb re-intro experiment later today. Shall I ask them to share around lunchtime?"
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2026-01-12 07:50",
+    "sender": "Rohan",
+    "content": "Yes, please. Would like to glance at it before my afternoon board prep."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2026-01-12 12:05",
+    "sender": "Advik",
+    "content": "Here’s a quick chart 📈: after quinoa, glucose rose modestly but returned to baseline within 60 minutes. Compared to pre-keto phase, that’s ~30% faster clearance. Strong sign your metabolic flexibility improved."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2026-01-12 12:08",
+    "sender": "Carla",
+    "content": "Exactly. It means your body’s handling carbs without major spikes or crashes. We’ll continue with oats and fruit later this week to broaden the test."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2026-01-12 12:12",
+    "sender": "Rohan",
+    "content": "That’s encouraging. Definitely felt less foggy after the quinoa meal. Let’s proceed with oats next."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2026-01-12 18:30",
+    "sender": "Dr Warren",
+    "content": "Rohan, building on the keynote success: you managed both physiology and psychology. I recommend establishing a formal mental health baseline. It’ll quantify mood, stress resilience, and provide a foundation for sustainable performance."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2026-01-12 18:42",
+    "sender": "Rohan",
+    "content": "Interesting. Is the idea that stronger mental health baseline gives me buffer against POTS/long COVID flare-ups under stress—similar to how physical training built resilience?"
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2026-01-12 18:55",
+    "sender": "Dr Warren",
+    "content": "Exactly. Psychological resilience strengthens autonomic stability. By quantifying stress capacity, we can create targeted strategies—just like we did for physical stress."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2026-01-12 19:02",
+    "sender": "Rohan",
+    "content": "Makes sense. Let’s set it up."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2026-01-12 19:10",
+    "sender": "Ruby",
+    "content": "Understood ✅ I’ll identify a clinical psychologist specializing in executive performance and coordinate with Sarah for scheduling."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2026-01-13 06:55",
+    "sender": "Rachel",
+    "content": "Morning Rohan! Now that the keynote’s behind you, I’d like to introduce a Metabolic Flexibility Workout this week: a fasted Zone 2 cardio session (30 mins). It trains fat utilization. Can we aim for Thu morning?"
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2026-01-13 07:05",
+    "sender": "Rohan",
+    "content": "Thu AM works. I’ll be home, so treadmill is available. Let’s plan for 7am."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2026-01-13 07:12",
+    "sender": "Rachel",
+    "content": "Perfect. I’ll send you pacing guidelines tomorrow so you’re ready."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2026-01-13 20:02",
+    "sender": "Ruby",
+    "content": "Quick update: I’ve shortlisted two psychologists with executive health expertise. I’ll share profiles with you and Sarah tomorrow morning for your review."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2026-01-14 09:15",
+    "sender": "Ruby",
+    "content": "Here are the two psychologists I mentioned. Both are experienced with execs in high-stress roles. Shared details with Sarah as well—she’ll advise on scheduling preference."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2026-01-14 09:30",
+    "sender": "Rohan",
+    "content": "Got it, thanks Ruby. Will leave it with Sarah to finalize."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2026-01-14 20:45",
+    "sender": "Advik",
+    "content": "Rohan, keto debrief ready for tomorrow. Data shows 22% improvement in subjective focus scores, HRV up 15%, and work output markers aligned. Validates your hypothesis strongly."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2026-01-14 20:50",
+    "sender": "Rohan",
+    "content": "That’s excellent. Glad the subjective matched the data. Looking forward to closing the loop."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2026-01-15 07:00",
+    "sender": "Rachel",
+    "content": "Morning! Reminder: today’s fasted Zone 2 cardio. Aim for HR 120–130 bpm, steady pace, 30 mins. Water only before. Report how you feel after."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2026-01-15 07:45",
+    "sender": "Rohan",
+    "content": "Done ✅ Managed 28 mins, HR averaged 126. Felt steady, not drained. Bit hungry afterwards."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2026-01-15 07:55",
+    "sender": "Rachel",
+    "content": "Perfect execution. Hunger is expected—refuel with balanced carbs + protein breakfast. Great first step in training metabolic flexibility."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2026-01-15 19:30",
+    "sender": "Ruby",
+    "content": "Thanks for joining the keto debrief earlier today. Advik’s full report is saved in your dashboard. Shall I also prep a one-page summary for quick reference?"
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2026-01-15 19:40",
+    "sender": "Rohan",
+    "content": "Yes please. The summary would be handy to revisit before travel."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2026-01-16 08:12",
+    "sender": "Carla",
+    "content": "This morning’s carb test: oats + berries. Note any cognitive changes and energy levels mid-morning, then share with me?"
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2026-01-16 11:00",
+    "sender": "Rohan",
+    "content": "Noticed mild dip in focus around 10:30am, but nothing drastic. Energy still fine. Logged in notes."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2026-01-16 11:12",
+    "sender": "Carla",
+    "content": "Great. That minor dip is expected—we’ll see if it repeats with other carbs. Your recovery is the bigger signal, which looks positive."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2026-01-16 19:25",
+    "sender": "Ruby",
+    "content": "One-pager keto summary ready and shared to your dashboard. Also emailed Sarah for archiving."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2026-01-16 19:32",
+    "sender": "Rohan",
+    "content": "Perfect. Appreciate the quick turnaround 🙏"
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2026-01-17 09:05",
+    "sender": "Advik",
+    "content": "This week’s glucose data: oats recovery curve similar to quinoa—baseline within 65 mins. Confirms consistency in improved flexibility."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2026-01-17 09:15",
+    "sender": "Rohan",
+    "content": "Good to see it’s holding. Feels sustainable."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2026-01-17 18:22",
+    "sender": "Ruby",
+    "content": "Wrapping the week: keynote Playbook documented ✅, keto experiment officially closed, carb re-intro on track, psychologist shortlisting underway. Anything else you’d like us to prioritize next week?"
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2026-01-17 18:35",
+    "sender": "Rohan",
+    "content": "That covers it. Solid progress this week. Thanks all 🙌"
+  }
+]

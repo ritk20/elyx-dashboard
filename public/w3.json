@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-07-21 07:42",
+    "sender": "Sarah",
+    "content": "Morning Ruby - Rohan's just had a London trip dropped on him. Flying out tomorrow night. Can we reshuffle the DEXA and make sure he's covered for the week?"
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-07-21 07:48",
+    "sender": "Ruby",
+    "content": "Thanks Sarah, noted. I'll move the DEXA to the week after he's back and block it in his calendar. We'll build a UK travel protocol for him today."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-07-21 07:50",
+    "sender": "Ruby",
+    "content": "UK trip noted, Rohan. All logistics handled. Your team's already on the travel optimisation protocol—nutrition, circadian, mobility. Focus on your work; we've got this."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-07-21 08:03",
+    "sender": "Rohan",
+    "content": "Perfect. Appreciate the speed on this 🙏"
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-07-21 09:20",
+    "sender": "Advik",
+    "content": "Morning Rohan. Drafting the UK Travel Protocol v1.0. Framing it as our first live experiment in circadian reset. Will send the full schedule by afternoon."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-07-21 09:26",
+    "sender": "Rohan",
+    "content": "Sounds interesting. Let's see how I handle the red-eye."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-07-21 14:12",
+    "sender": "Advik",
+    "content": "Protocol ready: Pre-flight—max light exposure 10am-2pm tomorrow; caffeine cutoff 2pm. In-flight—skip heavy meals, hydrate every hour. Post-landing—get daylight 7-9am London time, 20-min brisk walk. Sending PDF to Ruby."
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-07-21 14:30",
+    "sender": "Carla",
+    "content": "Got your London hotel info. Found 4 healthy spots within 10min walk—sending menus with my recommendations. Also prepped an airport/plane snack guide to keep inflammation low."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-07-21 14:44",
+    "sender": "Rachel",
+    "content": "Quick one—sending a 5-min pre-flight stretch, in-flight ankle circles & thoracic twists every 90 mins, plus a 15-min hotel mobility workout for evenings."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-07-21 15:05",
+    "sender": "Ruby",
+    "content": "All set—just sent you the consolidated UK Travel Pack. Includes: Advik's schedule, Carla's food guide, Rachel's mobility plan. Let me know if anything's unclear."
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-07-21 15:18",
+    "sender": "Rohan",
+    "content": "Got it. Looks thorough. I'll try to stick to all of it."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-07-22 06:55",
+    "sender": "Ruby",
+    "content": "Reminder: light exposure 10-2 today, caffeine cutoff at 2pm. Have a good prep day before your flight."
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-07-22 07:02",
+    "sender": "Rohan",
+    "content": "On it. Caffeine in hand now"
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-07-22 14:05",
+    "sender": "Ruby",
+    "content": "That's your last coffee for the day 😊 Hydrate and get some light before boarding."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-07-22 22:16",
+    "sender": "Rohan",
+    "content": "Boarding now. Will try the stretches Rachel sent before takeoff."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-07-23 06:34",
+    "sender": "Ruby",
+    "content": "Morning from Singapore—safe landing? Remember daylight + brisk walk before breakfast."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-07-23 07:15",
+    "sender": "Rohan",
+    "content": "Landed in London. Honestly feel less foggy than usual. Walk done, grabbing a light breakfast."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-07-23 07:20",
+    "sender": "Ruby",
+    "content": "Love to hear that. That's your first early win."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-07-23 12:02",
+    "sender": "Carla",
+    "content": "How's lunch? Did you manage to find The Good Life Eatery near the office? Their salmon & quinoa bowl matches your macro targets."
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-07-23 12:14",
+    "sender": "Rohan",
+    "content": "Yes—good pick. Didn't feel heavy afterwards."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-07-23 19:46",
+    "sender": "Rachel",
+    "content": "Squeeze in the hotel mobility routine tonight—will help with tomorrow's early start."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-07-23 19:55",
+    "sender": "Rohan",
+    "content": "Done. Short but effective."
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-07-24 06:50",
+    "sender": "Ruby",
+    "content": "Sleep & HRV look steady on Oura despite travel 👏 Keep following Advik's light schedule today."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-07-24 07:10",
+    "sender": "Rohan",
+    "content": "Nice to see that. Jet lag feels under control."
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-07-24 13:25",
+    "sender": "Advik",
+    "content": "Will run a comparison of your current HRV/sleep vs last UK trip. Hypothesis: ~15% improvement with this protocol."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-07-24 13:40",
+    "sender": "Rohan",
+    "content": "Cool-curious to see that."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-07-25 08:15",
+    "sender": "Ruby",
+    "content": "Day 3 HRV still above baseline. How's energy during meetings?"
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-07-25 08:28",
+    "sender": "Rohan",
+    "content": "Honestly better than expected. Only dipped slightly after lunch yesterday."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-07-25 08:40",
+    "sender": "Carla",
+    "content": "That's the lower glycemic load working. Dinner suggestion: Leon's chicken super salad."
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-07-25 08:42",
+    "sender": "Rohan",
+    "content": "Alright, I'll hunt that down tonight."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-07-26 06:35",
+    "sender": "Ruby",
+    "content": "Heading into the weekend, remember mobility before long meetings. Keeps back stiffness away."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-07-26 06:48",
+    "sender": "Rohan",
+    "content": "Will do. Back feels surprisingly fine so far."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-07-26 12:22",
+    "sender": "Rachel",
+    "content": "If weather's good, swap hotel gym for a 20-min park walk today, it'll be extra light + movement boost."
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-07-26 12:30",
+    "sender": "Rohan",
+    "content": "Blue skies, will take the walk."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-07-27 07:10",
+    "sender": "Ruby",
+    "content": "Flight home tonight—follow the reverse light/caffeine timing from your protocol. I'll book the DEXA for Thursday."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-07-27 07:20",
+    "sender": "Rohan",
+    "content": "Got it. Thanks for lining it all up."
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-07-27 22:05",
+    "sender": "Rohan",
+    "content": "Boarded. Will do the stretches before takeoff again."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-07-27 22:08",
+    "sender": "Ruby",
+    "content": "Nice. Same in-flight mobility every 90 mins. Hydrate and we'll see how you land."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-07-27 22:12",
+    "sender": "Rohan",
+    "content": "This trip was definitely smoother. Thanks to all of you."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-07-27 22:14",
+    "sender": "Ruby",
+    "content": "That's what we're here for🙌 Safe flight back."
+  }
+]

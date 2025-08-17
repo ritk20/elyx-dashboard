@@ -1,0 +1,242 @@
+[
+  {
+    "id": "msg_001",
+    "timestamp": "2025-10-12 17:32",
+    "sender": "Ruby",
+    "content": "Evening Rohan. Welcome back to SG! Light recovery session with Rachel is locked in for 8:30am tomorrow."
+  },
+  {
+    "id": "msg_002",
+    "timestamp": "2025-10-12 17:46",
+    "sender": "Rohan",
+    "content": "Thanks Ruby, perfect timing after yesterday's flight."
+  },
+  {
+    "id": "msg_003",
+    "timestamp": "2025-10-12 18:01",
+    "sender": "Rachel",
+    "content": "Plan is 20 mins mobility + easy core activation to get you loose. No heavy lifting for now."
+  },
+  {
+    "id": "msg_004",
+    "timestamp": "2025-10-12 18:02",
+    "sender": "Rohan",
+    "content": "Sounds good Rachel 👍 Will see you on Zoom tomorrow."
+  },
+  {
+    "id": "msg_005",
+    "timestamp": "2025-10-13 9:30",
+    "sender": "Rachel",
+    "content": "Great session today! You were tighter through left hip flexor but responded well to stretches."
+  },
+  {
+    "id": "msg_006",
+    "timestamp": "2025-10-13 11:32",
+    "sender": "Rohan",
+    "content": "Felt that release, thanks. Nice to be moving again."
+  },
+  {
+    "id": "msg_007",
+    "timestamp": "2025-10-13 12:55",
+    "sender": "Ruby",
+    "content": "Rachel wants to do a quick form check tomorrow evening for your heavier Phase 2 lifts - ok to lock 6pm? Schedule's clear, checked with Sarah"
+  },
+  {
+    "id": "msg_008",
+    "timestamp": "2025-10-13 14:02",
+    "sender": "Rohan",
+    "content": "6pm works. Appreciate the catch on this."
+  },
+  {
+    "id": "msg_009",
+    "timestamp": "2025-10-13 18:15",
+    "sender": "Advik",
+    "content": "Rohan, your aerobic base is now solid. To push VO₂ max into top 5%, we'll introduce Zone 5 HIIT: short, all-out bursts."
+  },
+  {
+    "id": "msg_010",
+    "timestamp": "2025-10-13 18:17",
+    "sender": "Rohan",
+    "content": "Got it. Will this be on bike or runs?"
+  },
+  {
+    "id": "msg_011",
+    "timestamp": "2025-10-13 18:20",
+    "sender": "Advik",
+    "content": "Bike to start as they have less joint load. Protocol: 4 x 30s max effort + 90s slow recovery. Goal is absolute max in work phases."
+  },
+  {
+    "id": "msg_012",
+    "timestamp": "2025-10-13 18:23",
+    "sender": "Rohan",
+    "content": "Sounds intense. When do you want me to test it?"
+  },
+  {
+    "id": "msg_013",
+    "timestamp": "2025-10-13 18:26",
+    "sender": "Advik",
+    "content": "Wednesday AM would be ideal. Recovery day after to lock in adaptations."
+  },
+  {
+    "id": "msg_014",
+    "timestamp": "2025-10-13 14:10",
+    "sender": "Ruby",
+    "content": "Cook has confirmed full 'Nutrition v2.0' in play this week. Snacks are same as Jakarta run."
+  },
+  {
+    "id": "msg_015",
+    "timestamp": "2025-10-13 14:12",
+    "sender": "Rohan",
+    "content": "Perfect. She's really streamlined things."
+  },
+  {
+    "id": "msg_016",
+    "timestamp": "2025-10-14 17:55",
+    "sender": "Rachel",
+    "content": "Form check time - joining Zoom now."
+  },
+  {
+    "id": "msg_017",
+    "timestamp": "2025-10-14 18:22",
+    "sender": "Rachel",
+    "content": "Bar path is clean. Watch elbow flare on last reps of bench. Safe to progress weight by 2.5kg next block."
+  },
+  {
+    "id": "msg_018",
+    "timestamp": "2025-10-14 18:25",
+    "sender": "Rohan",
+    "content": "Will focus on that."
+  },
+  {
+    "id": "msg_019",
+    "timestamp": "2025-10-15 06:32",
+    "sender": "Rohan",
+    "content": "First HIIT session done. Extremely difficult. Whoop strain 18.5 😅 That ok?"
+  },
+  {
+    "id": "msg_020",
+    "timestamp": "2025-10-15 06:38",
+    "sender": "Advik",
+    "content": "Exactly what we're targeting👍 That's the 'dose'. Tomorrow is full recovery, adaptations happen then."
+  },
+  {
+    "id": "msg_021",
+    "timestamp": "2025-10-15 06:42",
+    "sender": "Rohan",
+    "content": "Copy that. Will keep it light."
+  },
+  {
+    "id": "msg_022",
+    "timestamp": "2025-10-15 19:15",
+    "sender": "Ruby",
+    "content": "Sleep score looks a bit low last night - want me to push morning call tomorrow to 8:30?"
+  },
+  {
+    "id": "msg_023",
+    "timestamp": "2025-10-15 19:18",
+    "sender": "Rohan",
+    "content": "Yes please."
+  },
+  {
+    "id": "msg_024",
+    "timestamp": "2025-10-16 07:50",
+    "sender": "Rohan",
+    "content": "Advik, I read HIIT can spike oxidative stress. How does that fit with lowering inflammation? Is recovery the key?"
+  },
+  {
+    "id": "msg_025",
+    "timestamp": "2025-10-16 08:10",
+    "sender": "Advik",
+    "content": "Spot on - this is hormesis. Short intense stress → body adapts, builds resilience, lowers chronic inflammation risk over time."
+  },
+  {
+    "id": "msg_026",
+    "timestamp": "2025-10-16 08:12",
+    "sender": "Rohan",
+    "content": "Makes sense. Good to see the big picture here."
+  },
+  {
+    "id": "msg_027",
+    "timestamp": "2025-10-16 12:35",
+    "sender": "Carla",
+    "content": "Post-HIIT, keep carbs higher for 24h to speed glycogen replenishment. Cook has this covered."
+  },
+  {
+    "id": "msg_028",
+    "timestamp": "2025-10-16 12:37",
+    "sender": "Rohan",
+    "content": "Noted. Meals have been spot on lately."
+  },
+  {
+    "id": "msg_029",
+    "timestamp": "2025-10-17 07:05",
+    "sender": "Ruby",
+    "content": "Tomorrow is optional swim or walk—Advik says keep it zone 1. Shall I book pool slot?"
+  },
+  {
+    "id": "msg_030",
+    "timestamp": "2025-10-17 07:09",
+    "sender": "Rohan",
+    "content": "Let's book. Pool > walk in this heat."
+  },
+  {
+    "id": "msg_031",
+    "timestamp": "2025-10-17 11:42",
+    "sender": "Neel",
+    "content": "Nice work this week, Rohan. You've integrated a high-strain modality without derailing recovery, this is maturity in action."
+  },
+  {
+    "id": "msg_032",
+    "timestamp": "2025-10-17 11:46",
+    "sender": "Rohan",
+    "content": "Thanks Neel. Definitely felt like a step up."
+  },
+  {
+    "id": "msg_033",
+    "timestamp": "2025-10-17 15:30",
+    "sender": "Ruby",
+    "content": "Blood draw reminder for Monday - fasting, 8am slot at Camden. Want driver booked?"
+  },
+  {
+    "id": "msg_034",
+    "timestamp": "2025-10-17 15:32",
+    "sender": "Rohan",
+    "content": "Yes please."
+  },
+  {
+    "id": "msg_035",
+    "timestamp": "2025-10-18 08:20",
+    "sender": "Ruby",
+    "content": "Pool slot confirmed for 4pm. Towels on site."
+  },
+  {
+    "id": "msg_036",
+    "timestamp": "2025-10-18 08:23",
+    "sender": "Rohan",
+    "content": "👍"
+  },
+  {
+    "id": "msg_037",
+    "timestamp": "2025-10-18 17:10",
+    "sender": "Ruby",
+    "content": "Swim looked smooth from the tracker. It kept HR in perfect zone."
+  },
+  {
+    "id": "msg_038",
+    "timestamp": "2025-10-18 17:15",
+    "sender": "Rohan",
+    "content": "Felt easy, nice change of pace."
+  },
+  {
+    "id": "msg_039",
+    "timestamp": "2025-10-18 19:40",
+    "sender": "Ruby",
+    "content": "Closing the week: HIIT ✅ Strength ✅ Recovery ✅. You're set for bloods Monday."
+  },
+  {
+    "id": "msg_040",
+    "timestamp": "2025-10-18 19:43",
+    "sender": "Rohan",
+    "content": "Thanks team!"
+  }
+]

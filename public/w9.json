@@ -1,0 +1,206 @@
+[
+    {
+        "id": "msg_001",
+        "timestamp": "2025-08-31 08:12",
+        "sender": "Dr Warren",
+        "content": "Morning Rohan, given your solid start on nutrition & training, I'd like to add a Continuous Glucose Monitor. It'll give us real-time insight into how your body handles different foods, and help fine-tune your ApoB strategy."
+    },
+    {
+        "id": "msg_002",
+        "timestamp": "2025-08-31 08:20",
+        "sender": "Rohan",
+        "content": "Makes sense, Warren. I like the data-driven angle. Let's do it👍"
+    },
+    {
+        "id": "msg_003",
+        "timestamp": "2025-08-31 08:32",
+        "sender": "Ruby",
+        "content": "Perfect - I'll handle the CGM order today and book a home nurse to apply it. Any preference on mornings vs afternoons?"
+    },
+    {
+        "id": "msg_004",
+        "timestamp": "2025-08-31 08:34",
+        "sender": "Rohan",
+        "content": "Morning's better, before my calls start."
+    },
+    {
+        "id": "msg_005",
+        "timestamp": "2025-08-31 09:10",
+        "sender": "Ruby",
+        "content": "Got it. I'll confirm the exact slot with Sarah and the nursing service. No need for you to lift a finger😊"
+    },
+    {
+        "id": "msg_006",
+        "timestamp": "2025-08-31 13:42",
+        "sender": "Ruby",
+        "content": "Nurse confirmed for Wed 8:30am. I'll send you a short guide on what to expect."
+    },
+    {
+        "id": "msg_007",
+        "timestamp": "2025-08-31 13:50",
+        "sender": "Rohan",
+        "content": "Thanks Ruby. Smooth as always🙏"
+    },
+    {
+        "id": "msg_008",
+        "timestamp": "2025-09-01 07:15",
+        "sender": "Rachel",
+        "content": "Hey Rohan - how's week 2 of the new plan? Strength work feeling solid after our in-person session?"
+    },
+    {
+        "id": "msg_009",
+        "timestamp": "2025-09-01 07:50",
+        "sender": "Rohan",
+        "content": "Form feels better already. Legs a bit sore after squats, but energy's been good."
+    },
+    {
+        "id": "msg_010",
+        "timestamp": "2025-09-01 07:55",
+        "sender": "Rachel",
+        "content": "That's perfect - soreness should ease as your body adapts. Keep hitting those mobility drills; they'll help long-term."
+    },
+    {
+        "id": "msg_011",
+        "timestamp": "2025-09-01 09:00",
+        "sender": "Carla",
+        "content": "When the CGM's on, I want you to eat normally for 3 days first. No changes - we're just observing your baseline."
+    },
+    {
+        "id": "msg_012",
+        "timestamp": "2025-09-01 09:05",
+        "sender": "Rohan",
+        "content": "Copy that"
+    },
+    {
+        "id": "msg_013",
+        "timestamp": "2025-09-02 08:05",
+        "sender": "Ruby",
+        "content": "CGM sensors are on their way. They should reach you today - nurse still booked for Wed 8:30am."
+    },
+    {
+        "id": "msg_014",
+        "timestamp": "2025-09-02 08:20",
+        "sender": "Rohan",
+        "content": "Great. Looking forward to seeing the numbers."
+    },
+    {
+        "id": "msg_015",
+        "timestamp": "2025-09-03 08:31",
+        "sender": "Ruby",
+        "content": "Nurse's there now? Just checking everything's smooth."
+    },
+    {
+        "id": "msg_016",
+        "timestamp": "2025-09-03 08:38",
+        "sender": "Rohan",
+        "content": "Yep, all good. Sensor's on and app's set up. Easy process."
+    },
+    {
+        "id": "msg_017",
+        "timestamp": "2025-09-03 08:42",
+        "sender": "Ruby",
+        "content": "Perfect. Carla will be your main contact for interpreting the data. I'll handle any device issues."
+    },
+    {
+        "id": "msg_018",
+        "timestamp": "2025-09-03 12:40",
+        "sender": "Carla",
+        "content": "Just let me know if you see any big spikes in these first 3 days. it's a good learning moment."
+    },
+    {
+        "id": "msg_019",
+        "timestamp": "2025-09-04 08:15",
+        "sender": "Rohan",
+        "content": "Morning. Noticed a spike after oatmeal today. Surprised it was that high."
+    },
+    {
+        "id": "msg_020",
+        "timestamp": "2025-09-04 08:25",
+        "sender": "Carla",
+        "content": "That's a great catch. Let's use it for our first test: tomorrow, try scrambled eggs + avocado instead. We'll compare curves."
+    },
+    {
+        "id": "msg_021",
+        "timestamp": "2025-09-04 08:28",
+        "sender": "Rohan",
+        "content": "Sounds good. Data vs breakfast - let's see who wins 😄"
+    },
+    {
+        "id": "msg_022",
+        "timestamp": "2025-09-05 07:40",
+        "sender": "Rohan",
+        "content": "Eggs + avocado done. Glucose was steady - no spike at all."
+    },
+    {
+        "id": "msg_023",
+        "timestamp": "2025-09-05 07:55",
+        "sender": "Carla",
+        "content": "Exactly what we expected - protein/fat breakfasts tend to keep glucose stable. We can build from here."
+    },
+    {
+        "id": "msg_024",
+        "timestamp": "2025-09-05 09:15",
+        "sender": "Rachel",
+        "content": "Quick check-in: cardio sessions still fitting into your week okay?"
+    },
+    {
+        "id": "msg_025",
+        "timestamp": "2025-09-05 09:25",
+        "sender": "Rohan",
+        "content": "Yep, 2 this week so far. Zone 2 feels easier now that I'm pacing right."
+    },
+    {
+        "id": "msg_026",
+        "timestamp": "2025-09-05 09:28",
+        "sender": "Rachel",
+        "content": "Perfect - that's exactly the adaptation we want."
+    },
+    {
+        "id": "msg_027",
+        "timestamp": "2025-09-05 14:20",
+        "sender": "Ruby",
+        "content": "Rohan. Sorry, just realised I didn't confirm the CGM delivery on Tues. Everything still arrived on time, right?"
+    },
+    {
+        "id": "msg_028",
+        "timestamp": "2025-09-05 14:25",
+        "sender": "Rohan",
+        "content": "Haha yes, all good. Didn't even notice 😄"
+    },
+    {
+        "id": "msg_029",
+        "timestamp": "2025-09-06 07:55",
+        "sender": "Neel",
+        "content": "We've added mental focus tracking into your Q1 KPIs. This will sync with your wearable and your notes from the week."
+    },
+    {
+        "id": "msg_030",
+        "timestamp": "2025-09-06 08:00",
+        "sender": "Rohan",
+        "content": "Love it. Should give a full picture when we review next quarter."
+    },
+    {
+        "id": "msg_031",
+        "timestamp": "2025-09-06 08:10",
+        "sender": "Neel",
+        "content": "Exactly - that's the value of this integrated approach."
+    },
+    {
+        "id": "msg_032",
+        "timestamp": "2025-09-06 10:25",
+        "sender": "Carla",
+        "content": "Also - forgot to ask yesterday - how did you feel energy-wise after the eggs breakfast vs oatmeal?"
+    },
+    {
+        "id": "msg_033",
+        "timestamp": "2025-09-06 10:40",
+        "sender": "Rohan",
+        "content": "Actually steadier through the morning. No mid-morning slump."
+    },
+    {
+        "id": "msg_034",
+        "timestamp": "2025-09-06 10:42",
+        "sender": "Carla",
+        "content": "That's great feedback. It reinforces the glucose data. We'll keep tweaking from here."
+    }
+]
